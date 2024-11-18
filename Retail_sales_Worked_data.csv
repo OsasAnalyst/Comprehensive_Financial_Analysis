@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Month,Year,Quarter,Customer_ID,Gender,Age,Product_Category,Quantity,Price_per_Unit,Total_Amount,Purchase_Segmentation,Age_Group
+1,11/24/2023,11,2023,4,CUST001,Male,34,Beauty,3,50,150,Low Value,30 - 44
+2,2/27/2023,2,2023,1,CUST002,Female,26,Clothing,2,500,1000,High Value,18 - 29
+3,1/13/2023,1,2023,1,CUST003,Male,50,Electronics,1,30,30,Low Value,45 - 59
+4,5/21/2023,5,2023,2,CUST004,Male,37,Clothing,1,500,500,Medium Value,30 - 44
+5,5/6/2023,5,2023,2,CUST005,Male,30,Beauty,2,50,100,Low Value,30 - 44
+6,4/25/2023,4,2023,2,CUST006,Female,45,Beauty,1,30,30,Low Value,45 - 59
+7,3/13/2023,3,2023,1,CUST007,Male,46,Clothing,2,25,50,Low Value,45 - 59
+8,2/22/2023,2,2023,1,CUST008,Male,30,Electronics,4,25,100,Low Value,30 - 44
+9,12/13/2023,12,2023,4,CUST009,Male,63,Electronics,2,300,600,Medium Value,60+
+10,10/7/2023,10,2023,4,CUST010,Female,52,Clothing,4,50,200,Low Value,45 - 59
+11,2/14/2023,2,2023,1,CUST011,Male,23,Clothing,2,50,100,Low Value,18 - 29
+12,10/30/2023,10,2023,4,CUST012,Male,35,Beauty,3,25,75,Low Value,30 - 44
+13,8/5/2023,8,2023,3,CUST013,Male,22,Electronics,3,500,1500,High Value,18 - 29
+14,1/17/2023,1,2023,1,CUST014,Male,64,Clothing,4,30,120,Low Value,60+
+15,1/16/2023,1,2023,1,CUST015,Female,42,Electronics,4,500,2000,High Value,30 - 44
+16,2/17/2023,2,2023,1,CUST016,Male,19,Clothing,3,500,1500,High Value,18 - 29
+17,4/22/2023,4,2023,2,CUST017,Female,27,Clothing,4,25,100,Low Value,18 - 29
+18,4/30/2023,4,2023,2,CUST018,Female,47,Electronics,2,25,50,Low Value,45 - 59
+19,9/16/2023,9,2023,3,CUST019,Female,62,Clothing,2,25,50,Low Value,60+
+20,11/5/2023,11,2023,4,CUST020,Male,22,Clothing,3,300,900,Medium Value,18 - 29
+21,1/14/2023,1,2023,1,CUST021,Female,50,Beauty,1,500,500,Medium Value,45 - 59
+22,10/15/2023,10,2023,4,CUST022,Male,18,Clothing,2,50,100,Low Value,18 - 29
+23,4/12/2023,4,2023,2,CUST023,Female,35,Clothing,4,30,120,Low Value,30 - 44
+24,11/29/2023,11,2023,4,CUST024,Female,49,Clothing,1,300,300,Low Value,45 - 59
+25,12/26/2023,12,2023,4,CUST025,Female,64,Beauty,1,50,50,Low Value,60+
+26,10/7/2023,10,2023,4,CUST026,Female,28,Electronics,2,500,1000,High Value,18 - 29
+27,8/3/2023,8,2023,3,CUST027,Female,38,Beauty,2,25,50,Low Value,30 - 44
+28,4/23/2023,4,2023,2,CUST028,Female,43,Beauty,1,500,500,Medium Value,30 - 44
+29,8/18/2023,8,2023,3,CUST029,Female,42,Electronics,1,30,30,Low Value,30 - 44
+30,10/29/2023,10,2023,4,CUST030,Female,39,Beauty,3,300,900,Medium Value,30 - 44
+31,5/23/2023,5,2023,2,CUST031,Male,44,Electronics,4,300,1200,High Value,30 - 44
+32,1/4/2023,1,2023,1,CUST032,Male,30,Beauty,3,30,90,Low Value,30 - 44
+33,3/23/2023,3,2023,1,CUST033,Female,50,Electronics,2,50,100,Low Value,45 - 59
+34,12/24/2023,12,2023,4,CUST034,Female,51,Clothing,3,50,150,Low Value,45 - 59
+35,8/5/2023,8,2023,3,CUST035,Female,58,Beauty,3,300,900,Medium Value,45 - 59
+36,6/24/2023,6,2023,2,CUST036,Male,52,Beauty,3,300,900,Medium Value,45 - 59
+37,5/23/2023,5,2023,2,CUST037,Female,18,Beauty,3,25,75,Low Value,18 - 29
+38,3/21/2023,3,2023,1,CUST038,Male,38,Beauty,4,50,200,Low Value,30 - 44
+39,4/21/2023,4,2023,2,CUST039,Male,23,Clothing,4,30,120,Low Value,18 - 29
+40,6/22/2023,6,2023,2,CUST040,Male,45,Beauty,1,50,50,Low Value,45 - 59
+41,2/22/2023,2,2023,1,CUST041,Male,34,Clothing,2,25,50,Low Value,30 - 44
+42,2/17/2023,2,2023,1,CUST042,Male,22,Clothing,3,300,900,Medium Value,18 - 29
+43,7/14/2023,7,2023,3,CUST043,Female,48,Clothing,1,300,300,Low Value,45 - 59
+44,2/19/2023,2,2023,1,CUST044,Female,22,Clothing,1,25,25,Low Value,18 - 29
+45,7/3/2023,7,2023,3,CUST045,Female,55,Electronics,1,30,30,Low Value,45 - 59
+46,6/26/2023,6,2023,2,CUST046,Female,20,Electronics,4,300,1200,High Value,18 - 29
+47,11/6/2023,11,2023,4,CUST047,Female,40,Beauty,3,500,1500,High Value,30 - 44
+48,5/16/2023,5,2023,2,CUST048,Male,54,Electronics,3,300,900,Medium Value,45 - 59
+49,1/23/2023,1,2023,1,CUST049,Female,54,Electronics,2,500,1000,High Value,45 - 59
+50,8/24/2023,8,2023,3,CUST050,Female,27,Beauty,3,25,75,Low Value,18 - 29
+51,10/2/2023,10,2023,4,CUST051,Male,27,Beauty,3,25,75,Low Value,18 - 29
+52,3/5/2023,3,2023,1,CUST052,Female,36,Beauty,1,300,300,Low Value,30 - 44
+53,7/13/2023,7,2023,3,CUST053,Male,34,Electronics,2,50,100,Low Value,30 - 44
+54,2/10/2023,2,2023,1,CUST054,Female,38,Electronics,3,500,1500,High Value,30 - 44
+55,10/10/2023,10,2023,4,CUST055,Male,31,Beauty,4,30,120,Low Value,30 - 44
+56,5/31/2023,5,2023,2,CUST056,Female,26,Clothing,3,300,900,Medium Value,18 - 29
+57,11/18/2023,11,2023,4,CUST057,Female,63,Beauty,1,30,30,Low Value,60+
+58,11/13/2023,11,2023,4,CUST058,Male,18,Clothing,4,300,1200,High Value,18 - 29
+59,7/5/2023,7,2023,3,CUST059,Male,62,Clothing,1,50,50,Low Value,60+
+60,10/23/2023,10,2023,4,CUST060,Male,30,Beauty,3,50,150,Low Value,30 - 44
+61,4/9/2023,4,2023,2,CUST061,Male,21,Beauty,4,50,200,Low Value,18 - 29
+62,12/27/2023,12,2023,4,CUST062,Male,18,Beauty,2,50,100,Low Value,18 - 29
+63,2/5/2023,2,2023,1,CUST063,Male,57,Electronics,2,25,50,Low Value,45 - 59
+64,1/24/2023,1,2023,1,CUST064,Male,49,Clothing,4,25,100,Low Value,45 - 59
+65,12/5/2023,12,2023,4,CUST065,Male,51,Electronics,4,500,2000,High Value,45 - 59
+66,4/27/2023,4,2023,2,CUST066,Female,45,Electronics,1,30,30,Low Value,45 - 59
+67,5/29/2023,5,2023,2,CUST067,Female,48,Beauty,4,300,1200,High Value,45 - 59
+68,2/10/2023,2,2023,1,CUST068,Male,25,Electronics,1,300,300,Low Value,18 - 29
+69,4/30/2023,4,2023,2,CUST069,Female,56,Beauty,3,25,75,Low Value,45 - 59
+70,2/21/2023,2,2023,1,CUST070,Female,43,Clothing,1,300,300,Low Value,30 - 44
+71,7/14/2023,7,2023,3,CUST071,Female,51,Beauty,4,25,100,Low Value,45 - 59
+72,5/23/2023,5,2023,2,CUST072,Female,20,Electronics,4,500,2000,High Value,18 - 29
+73,8/21/2023,8,2023,3,CUST073,Male,29,Electronics,3,30,90,Low Value,18 - 29
+74,11/22/2023,11,2023,4,CUST074,Female,18,Beauty,4,500,2000,High Value,18 - 29
+75,7/6/2023,7,2023,3,CUST075,Male,61,Beauty,4,50,200,Low Value,60+
+76,3/25/2023,3,2023,1,CUST076,Female,22,Electronics,2,50,100,Low Value,18 - 29
+77,7/9/2023,7,2023,3,CUST077,Female,47,Clothing,2,50,100,Low Value,45 - 59
+78,7/1/2023,7,2023,3,CUST078,Female,47,Clothing,3,500,1500,High Value,45 - 59
+79,4/18/2023,4,2023,2,CUST079,Male,34,Beauty,1,300,300,Low Value,30 - 44
+80,12/10/2023,12,2023,4,CUST080,Female,64,Clothing,2,30,60,Low Value,60+
+81,5/17/2023,5,2023,2,CUST081,Male,40,Electronics,1,50,50,Low Value,30 - 44
+82,12/26/2023,12,2023,4,CUST082,Female,32,Beauty,4,50,200,Low Value,30 - 44
+83,12/16/2023,12,2023,4,CUST083,Male,54,Electronics,2,50,100,Low Value,45 - 59
+84,11/28/2023,11,2023,4,CUST084,Female,38,Electronics,3,30,90,Low Value,30 - 44
+85,2/6/2023,2,2023,1,CUST085,Male,31,Clothing,3,50,150,Low Value,30 - 44
+86,11/8/2023,11,2023,4,CUST086,Male,19,Beauty,3,30,90,Low Value,18 - 29
+87,11/22/2023,11,2023,4,CUST087,Female,28,Beauty,2,50,100,Low Value,18 - 29
+88,3/29/2023,3,2023,1,CUST088,Male,56,Clothing,1,500,500,Medium Value,45 - 59
+89,10/1/2023,10,2023,4,CUST089,Female,55,Electronics,4,500,2000,High Value,45 - 59
+90,5/6/2023,5,2023,2,CUST090,Female,51,Electronics,1,30,30,Low Value,45 - 59
+91,3/25/2023,3,2023,1,CUST091,Female,55,Electronics,1,500,500,Medium Value,45 - 59
+92,8/25/2023,8,2023,3,CUST092,Female,51,Electronics,4,30,120,Low Value,45 - 59
+93,7/14/2023,7,2023,3,CUST093,Female,35,Beauty,4,500,2000,High Value,30 - 44
+94,5/19/2023,5,2023,2,CUST094,Female,47,Beauty,2,500,1000,High Value,45 - 59
+95,11/24/2023,11,2023,4,CUST095,Female,32,Clothing,2,30,60,Low Value,30 - 44
+96,12/19/2023,12,2023,4,CUST096,Female,44,Clothing,2,300,600,Medium Value,30 - 44
+97,10/13/2023,10,2023,4,CUST097,Female,51,Beauty,2,500,1000,High Value,45 - 59
+98,4/23/2023,4,2023,2,CUST098,Female,55,Beauty,2,50,100,Low Value,45 - 59
+99,12/17/2023,12,2023,4,CUST099,Female,50,Electronics,4,300,1200,High Value,45 - 59
+100,6/16/2023,6,2023,2,CUST100,Male,41,Electronics,1,30,30,Low Value,30 - 44
+101,1/29/2023,1,2023,1,CUST101,Male,32,Clothing,2,300,600,Medium Value,30 - 44
+102,4/28/2023,4,2023,2,CUST102,Female,47,Beauty,2,25,50,Low Value,45 - 59
+103,1/17/2023,1,2023,1,CUST103,Female,59,Clothing,1,25,25,Low Value,45 - 59
+104,6/11/2023,6,2023,2,CUST104,Female,34,Beauty,2,500,1000,High Value,30 - 44
+105,7/25/2023,7,2023,3,CUST105,Female,22,Electronics,1,500,500,Medium Value,18 - 29
+106,5/18/2023,5,2023,2,CUST106,Female,46,Clothing,1,50,50,Low Value,45 - 59
+107,2/3/2023,2,2023,1,CUST107,Female,21,Clothing,4,300,1200,High Value,18 - 29
+108,4/19/2023,4,2023,2,CUST108,Female,27,Beauty,3,25,75,Low Value,18 - 29
+109,10/18/2023,10,2023,4,CUST109,Female,34,Electronics,4,500,2000,High Value,30 - 44
+110,6/11/2023,6,2023,2,CUST110,Male,27,Clothing,3,300,900,Medium Value,18 - 29
+111,4/19/2023,4,2023,2,CUST111,Female,34,Electronics,3,500,1500,High Value,30 - 44
+112,12/2/2023,12,2023,4,CUST112,Male,37,Clothing,3,500,1500,High Value,30 - 44
+113,9/13/2023,9,2023,3,CUST113,Female,41,Electronics,2,25,50,Low Value,30 - 44
+114,7/22/2023,7,2023,3,CUST114,Female,22,Beauty,4,25,100,Low Value,18 - 29
+115,11/26/2023,11,2023,4,CUST115,Male,51,Clothing,3,500,1500,High Value,45 - 59
+116,8/23/2023,8,2023,3,CUST116,Female,23,Clothing,1,30,30,Low Value,18 - 29
+117,3/15/2023,3,2023,1,CUST117,Male,19,Electronics,2,500,1000,High Value,18 - 29
+118,5/16/2023,5,2023,2,CUST118,Female,30,Electronics,4,500,2000,High Value,30 - 44
+119,3/13/2023,3,2023,1,CUST119,Female,60,Clothing,3,50,150,Low Value,60+
+120,5/7/2023,5,2023,2,CUST120,Male,60,Beauty,1,50,50,Low Value,60+
+121,10/15/2023,10,2023,4,CUST121,Female,28,Electronics,4,50,200,Low Value,18 - 29
+122,10/3/2023,10,2023,4,CUST122,Male,64,Electronics,4,30,120,Low Value,60+
+123,5/15/2023,5,2023,2,CUST123,Female,40,Electronics,2,30,60,Low Value,30 - 44
+124,10/27/2023,10,2023,4,CUST124,Male,33,Clothing,4,500,2000,High Value,30 - 44
+125,8/8/2023,8,2023,3,CUST125,Male,48,Clothing,2,50,100,Low Value,45 - 59
+126,10/26/2023,10,2023,4,CUST126,Female,28,Clothing,3,30,90,Low Value,18 - 29
+127,7/24/2023,7,2023,3,CUST127,Female,33,Clothing,2,25,50,Low Value,30 - 44
+128,7/5/2023,7,2023,3,CUST128,Male,25,Beauty,1,500,500,Medium Value,18 - 29
+129,4/23/2023,4,2023,2,CUST129,Female,21,Beauty,2,300,600,Medium Value,18 - 29
+130,3/12/2023,3,2023,1,CUST130,Female,57,Clothing,1,500,500,Medium Value,45 - 59
+131,9/18/2023,9,2023,3,CUST131,Female,21,Beauty,2,300,600,Medium Value,18 - 29
+132,9/10/2023,9,2023,3,CUST132,Male,42,Electronics,4,50,200,Low Value,30 - 44
+133,2/16/2023,2,2023,1,CUST133,Male,20,Electronics,3,300,900,Medium Value,18 - 29
+134,1/25/2023,1,2023,1,CUST134,Male,49,Electronics,1,50,50,Low Value,45 - 59
+135,2/26/2023,2,2023,1,CUST135,Male,20,Clothing,2,25,50,Low Value,18 - 29
+136,3/20/2023,3,2023,1,CUST136,Male,44,Electronics,2,300,600,Medium Value,30 - 44
+137,11/18/2023,11,2023,4,CUST137,Male,46,Beauty,2,500,1000,High Value,45 - 59
+138,3/23/2023,3,2023,1,CUST138,Male,49,Clothing,4,50,200,Low Value,45 - 59
+139,12/15/2023,12,2023,4,CUST139,Male,36,Beauty,4,500,2000,High Value,30 - 44
+140,8/5/2023,8,2023,3,CUST140,Male,38,Electronics,1,30,30,Low Value,30 - 44
+141,11/2/2023,11,2023,4,CUST141,Female,22,Electronics,1,50,50,Low Value,18 - 29
+142,2/2/2023,2,2023,1,CUST142,Male,35,Electronics,4,300,1200,High Value,30 - 44
+143,7/17/2023,7,2023,3,CUST143,Female,45,Clothing,1,50,50,Low Value,45 - 59
+144,7/15/2023,7,2023,3,CUST144,Female,59,Beauty,3,500,1500,High Value,45 - 59
+145,11/2/2023,11,2023,4,CUST145,Female,39,Clothing,3,25,75,Low Value,30 - 44
+146,8/28/2023,8,2023,3,CUST146,Male,38,Clothing,4,50,200,Low Value,30 - 44
+147,9/28/2023,9,2023,3,CUST147,Male,23,Electronics,1,300,300,Low Value,18 - 29
+148,5/9/2023,5,2023,2,CUST148,Male,18,Clothing,2,30,60,Low Value,18 - 29
+149,10/11/2023,10,2023,4,CUST149,Male,22,Clothing,3,25,75,Low Value,18 - 29
+150,1/6/2023,1,2023,1,CUST150,Female,58,Electronics,4,30,120,Low Value,45 - 59
+151,12/15/2023,12,2023,4,CUST151,Male,29,Clothing,1,50,50,Low Value,18 - 29
+152,2/28/2023,2,2023,1,CUST152,Male,43,Electronics,4,500,2000,High Value,30 - 44
+153,12/16/2023,12,2023,4,CUST153,Male,63,Electronics,2,500,1000,High Value,60+
+154,10/2/2023,10,2023,4,CUST154,Male,51,Electronics,3,300,900,Medium Value,45 - 59
+155,5/17/2023,5,2023,2,CUST155,Male,31,Electronics,4,500,2000,High Value,30 - 44
+156,11/25/2023,11,2023,4,CUST156,Female,43,Clothing,4,25,100,Low Value,30 - 44
+157,6/24/2023,6,2023,2,CUST157,Male,62,Electronics,4,500,2000,High Value,60+
+158,2/27/2023,2,2023,1,CUST158,Female,44,Electronics,2,300,600,Medium Value,30 - 44
+159,5/31/2023,5,2023,2,CUST159,Male,26,Clothing,4,50,200,Low Value,18 - 29
+160,8/11/2023,8,2023,3,CUST160,Female,43,Clothing,2,50,100,Low Value,30 - 44
+161,3/22/2023,3,2023,1,CUST161,Male,64,Beauty,2,500,1000,High Value,60+
+162,8/21/2023,8,2023,3,CUST162,Male,39,Clothing,2,30,60,Low Value,30 - 44
+163,1/2/2023,1,2023,1,CUST163,Female,64,Clothing,3,50,150,Low Value,60+
+164,5/15/2023,5,2023,2,CUST164,Female,47,Beauty,3,500,1500,High Value,45 - 59
+165,9/14/2023,9,2023,3,CUST165,Female,60,Clothing,4,300,1200,High Value,60+
+166,4/2/2023,4,2023,2,CUST166,Male,34,Clothing,4,500,2000,High Value,30 - 44
+167,9/17/2023,9,2023,3,CUST167,Female,43,Clothing,3,50,150,Low Value,30 - 44
+168,2/24/2023,2,2023,1,CUST168,Male,53,Clothing,1,300,300,Low Value,45 - 59
+169,11/17/2023,11,2023,4,CUST169,Male,18,Beauty,3,500,1500,High Value,18 - 29
+170,6/2/2023,6,2023,2,CUST170,Female,25,Clothing,2,25,50,Low Value,18 - 29
+171,11/24/2023,11,2023,4,CUST171,Female,52,Clothing,3,300,900,Medium Value,45 - 59
+172,9/17/2023,9,2023,3,CUST172,Male,32,Beauty,2,25,50,Low Value,30 - 44
+173,11/8/2023,11,2023,4,CUST173,Male,64,Electronics,4,30,120,Low Value,60+
+174,4/12/2023,4,2023,2,CUST174,Female,39,Beauty,1,300,300,Low Value,30 - 44
+175,3/20/2023,3,2023,1,CUST175,Female,31,Electronics,4,25,100,Low Value,30 - 44
+176,7/11/2023,7,2023,3,CUST176,Female,43,Beauty,2,50,100,Low Value,30 - 44
+177,3/24/2023,3,2023,1,CUST177,Male,45,Beauty,2,50,100,Low Value,45 - 59
+178,10/4/2023,10,2023,4,CUST178,Male,40,Clothing,2,30,60,Low Value,30 - 44
+179,9/29/2023,9,2023,3,CUST179,Male,31,Electronics,1,300,300,Low Value,30 - 44
+180,1/1/2023,1,2023,1,CUST180,Male,41,Clothing,3,300,900,Medium Value,30 - 44
+181,11/3/2023,11,2023,4,CUST181,Male,19,Electronics,4,300,1200,High Value,18 - 29
+182,6/15/2023,6,2023,2,CUST182,Male,62,Beauty,4,30,120,Low Value,60+
+183,9/8/2023,9,2023,3,CUST183,Female,43,Beauty,3,300,900,Medium Value,30 - 44
+184,1/10/2023,1,2023,1,CUST184,Male,31,Electronics,4,50,200,Low Value,30 - 44
+185,2/27/2023,2,2023,1,CUST185,Male,24,Clothing,1,25,25,Low Value,18 - 29
+186,7/5/2023,7,2023,3,CUST186,Male,20,Clothing,4,50,200,Low Value,18 - 29
+187,6/7/2023,6,2023,2,CUST187,Female,64,Clothing,2,50,100,Low Value,60+
+188,5/3/2023,5,2023,2,CUST188,Male,40,Clothing,3,25,75,Low Value,30 - 44
+189,1/30/2023,1,2023,1,CUST189,Male,63,Beauty,1,50,50,Low Value,60+
+190,5/4/2023,5,2023,2,CUST190,Female,60,Beauty,3,30,90,Low Value,60+
+191,10/18/2023,10,2023,4,CUST191,Male,64,Beauty,1,25,25,Low Value,60+
+192,2/10/2023,2,2023,1,CUST192,Male,62,Beauty,2,50,100,Low Value,60+
+193,2/13/2023,2,2023,1,CUST193,Male,35,Beauty,3,500,1500,High Value,30 - 44
+194,9/6/2023,9,2023,3,CUST194,Male,55,Clothing,4,50,200,Low Value,45 - 59
+195,2/5/2023,2,2023,1,CUST195,Male,52,Clothing,1,30,30,Low Value,45 - 59
+196,9/30/2023,9,2023,3,CUST196,Female,32,Clothing,3,300,900,Medium Value,30 - 44
+197,3/6/2023,3,2023,1,CUST197,Female,42,Clothing,4,50,200,Low Value,30 - 44
+198,3/7/2023,3,2023,1,CUST198,Female,54,Beauty,3,300,900,Medium Value,45 - 59
+199,12/4/2023,12,2023,4,CUST199,Male,45,Beauty,3,500,1500,High Value,45 - 59
+200,9/1/2023,9,2023,3,CUST200,Male,27,Beauty,3,50,150,Low Value,18 - 29
+201,10/9/2023,10,2023,4,CUST201,Male,56,Electronics,1,25,25,Low Value,45 - 59
+202,3/26/2023,3,2023,1,CUST202,Female,34,Clothing,4,300,1200,High Value,30 - 44
+203,5/16/2023,5,2023,2,CUST203,Male,56,Clothing,2,500,1000,High Value,45 - 59
+204,9/28/2023,9,2023,3,CUST204,Male,39,Beauty,1,25,25,Low Value,30 - 44
+205,11/7/2023,11,2023,4,CUST205,Female,43,Clothing,1,25,25,Low Value,30 - 44
+206,8/5/2023,8,2023,3,CUST206,Male,61,Clothing,1,25,25,Low Value,60+
+207,4/19/2023,4,2023,2,CUST207,Female,42,Beauty,2,25,50,Low Value,30 - 44
+208,10/4/2023,10,2023,4,CUST208,Female,34,Electronics,4,50,200,Low Value,30 - 44
+209,12/20/2023,12,2023,4,CUST209,Female,30,Electronics,4,50,200,Low Value,30 - 44
+210,4/13/2023,4,2023,2,CUST210,Male,37,Electronics,4,50,200,Low Value,30 - 44
+211,1/1/2024,1,2024,1,CUST211,Male,42,Beauty,3,500,1500,High Value,30 - 44
+212,6/9/2023,6,2023,2,CUST212,Male,21,Clothing,3,500,1500,High Value,18 - 29
+213,7/24/2023,7,2023,3,CUST213,Male,27,Beauty,3,500,1500,High Value,18 - 29
+214,12/10/2023,12,2023,4,CUST214,Male,20,Beauty,2,30,60,Low Value,18 - 29
+215,11/29/2023,11,2023,4,CUST215,Male,58,Clothing,3,500,1500,High Value,45 - 59
+216,7/11/2023,7,2023,3,CUST216,Male,62,Electronics,2,50,100,Low Value,60+
+217,8/13/2023,8,2023,3,CUST217,Female,35,Electronics,4,50,200,Low Value,30 - 44
+218,9/22/2023,9,2023,3,CUST218,Male,64,Beauty,3,30,90,Low Value,60+
+219,8/20/2023,8,2023,3,CUST219,Female,53,Electronics,3,30,90,Low Value,45 - 59
+220,3/3/2023,3,2023,1,CUST220,Male,64,Beauty,1,500,500,Medium Value,60+
+221,5/7/2023,5,2023,2,CUST221,Male,39,Beauty,2,300,600,Medium Value,30 - 44
+222,4/26/2023,4,2023,2,CUST222,Male,51,Clothing,4,30,120,Low Value,45 - 59
+223,2/2/2023,2,2023,1,CUST223,Female,64,Clothing,1,25,25,Low Value,60+
+224,6/23/2023,6,2023,2,CUST224,Female,25,Clothing,1,50,50,Low Value,18 - 29
+225,1/11/2023,1,2023,1,CUST225,Female,57,Beauty,4,25,100,Low Value,45 - 59
+226,10/29/2023,10,2023,4,CUST226,Female,61,Clothing,1,50,50,Low Value,60+
+227,10/11/2023,10,2023,4,CUST227,Male,36,Electronics,2,50,100,Low Value,30 - 44
+228,4/28/2023,4,2023,2,CUST228,Female,59,Electronics,2,30,60,Low Value,45 - 59
+229,10/29/2023,10,2023,4,CUST229,Male,58,Beauty,3,30,90,Low Value,45 - 59
+230,4/23/2023,4,2023,2,CUST230,Male,54,Beauty,1,25,25,Low Value,45 - 59
+231,1/4/2023,1,2023,1,CUST231,Female,23,Clothing,3,50,150,Low Value,18 - 29
+232,2/6/2023,2,2023,1,CUST232,Female,43,Beauty,1,25,25,Low Value,30 - 44
+233,12/29/2023,12,2023,4,CUST233,Female,51,Beauty,2,300,600,Medium Value,45 - 59
+234,11/20/2023,11,2023,4,CUST234,Female,62,Electronics,2,25,50,Low Value,60+
+235,1/31/2023,1,2023,1,CUST235,Female,23,Electronics,2,500,1000,High Value,18 - 29
+236,4/28/2023,4,2023,2,CUST236,Female,54,Clothing,1,25,25,Low Value,45 - 59
+237,2/4/2023,2,2023,1,CUST237,Female,50,Beauty,2,500,1000,High Value,45 - 59
+238,1/17/2023,1,2023,1,CUST238,Female,39,Beauty,1,500,500,Medium Value,30 - 44
+239,6/19/2023,6,2023,2,CUST239,Male,38,Electronics,3,500,1500,High Value,30 - 44
+240,2/6/2023,2,2023,1,CUST240,Female,23,Beauty,1,300,300,Low Value,18 - 29
+241,9/21/2023,9,2023,3,CUST241,Female,23,Electronics,3,25,75,Low Value,18 - 29
+242,5/2/2023,5,2023,2,CUST242,Male,21,Clothing,1,25,25,Low Value,18 - 29
+243,5/23/2023,5,2023,2,CUST243,Female,47,Electronics,3,300,900,Medium Value,45 - 59
+244,12/9/2023,12,2023,4,CUST244,Male,28,Beauty,2,50,100,Low Value,18 - 29
+245,9/6/2023,9,2023,3,CUST245,Male,47,Clothing,3,30,90,Low Value,45 - 59
+246,4/20/2023,4,2023,2,CUST246,Female,48,Electronics,2,25,50,Low Value,45 - 59
+247,10/4/2023,10,2023,4,CUST247,Male,41,Electronics,2,30,60,Low Value,30 - 44
+248,3/9/2023,3,2023,1,CUST248,Male,26,Clothing,3,300,900,Medium Value,18 - 29
+249,10/20/2023,10,2023,4,CUST249,Male,20,Clothing,1,50,50,Low Value,18 - 29
+250,10/23/2023,10,2023,4,CUST250,Male,48,Electronics,1,50,50,Low Value,45 - 59
+251,8/31/2023,8,2023,3,CUST251,Female,57,Beauty,4,50,200,Low Value,45 - 59
+252,5/5/2023,5,2023,2,CUST252,Male,54,Electronics,1,300,300,Low Value,45 - 59
+253,8/31/2023,8,2023,3,CUST253,Female,53,Clothing,4,500,2000,High Value,45 - 59
+254,7/28/2023,7,2023,3,CUST254,Male,41,Electronics,1,500,500,Medium Value,30 - 44
+255,4/8/2023,4,2023,2,CUST255,Male,48,Clothing,1,30,30,Low Value,45 - 59
+256,2/18/2023,2,2023,1,CUST256,Male,23,Clothing,2,500,1000,High Value,18 - 29
+257,2/19/2023,2,2023,1,CUST257,Male,19,Beauty,4,500,2000,High Value,18 - 29
+258,12/4/2023,12,2023,4,CUST258,Female,37,Clothing,1,50,50,Low Value,30 - 44
+259,8/9/2023,8,2023,3,CUST259,Female,45,Clothing,4,50,200,Low Value,45 - 59
+260,7/1/2023,7,2023,3,CUST260,Male,28,Beauty,2,30,60,Low Value,18 - 29
+261,8/5/2023,8,2023,3,CUST261,Male,21,Clothing,2,25,50,Low Value,18 - 29
+262,7/30/2023,7,2023,3,CUST262,Female,32,Beauty,4,30,120,Low Value,30 - 44
+263,8/28/2023,8,2023,3,CUST263,Male,23,Beauty,2,30,60,Low Value,18 - 29
+264,1/28/2023,1,2023,1,CUST264,Male,47,Clothing,3,300,900,Medium Value,45 - 59
+265,12/11/2023,12,2023,4,CUST265,Male,55,Clothing,3,300,900,Medium Value,45 - 59
+266,12/1/2023,12,2023,4,CUST266,Female,19,Electronics,2,30,60,Low Value,18 - 29
+267,11/27/2023,11,2023,4,CUST267,Female,32,Beauty,3,30,90,Low Value,30 - 44
+268,2/20/2023,2,2023,1,CUST268,Female,28,Electronics,1,30,30,Low Value,18 - 29
+269,2/1/2023,2,2023,1,CUST269,Male,25,Clothing,4,500,2000,High Value,18 - 29
+270,7/26/2023,7,2023,3,CUST270,Male,43,Electronics,1,300,300,Low Value,30 - 44
+271,6/23/2023,6,2023,2,CUST271,Female,62,Beauty,4,30,120,Low Value,60+
+272,2/25/2023,2,2023,1,CUST272,Female,61,Electronics,2,50,100,Low Value,60+
+273,5/8/2023,5,2023,2,CUST273,Female,22,Beauty,1,50,50,Low Value,18 - 29
+274,4/9/2023,4,2023,2,CUST274,Female,23,Clothing,2,500,1000,High Value,18 - 29
+275,4/8/2023,4,2023,2,CUST275,Male,43,Clothing,2,500,1000,High Value,30 - 44
+276,10/2/2023,10,2023,4,CUST276,Female,21,Beauty,4,25,100,Low Value,18 - 29
+277,8/18/2023,8,2023,3,CUST277,Male,36,Clothing,4,25,100,Low Value,30 - 44
+278,3/13/2023,3,2023,1,CUST278,Female,37,Clothing,4,25,100,Low Value,30 - 44
+279,8/5/2023,8,2023,3,CUST279,Male,50,Clothing,1,500,500,Medium Value,45 - 59
+280,4/4/2023,4,2023,2,CUST280,Female,37,Clothing,3,500,1500,High Value,30 - 44
+281,5/23/2023,5,2023,2,CUST281,Female,29,Beauty,4,500,2000,High Value,18 - 29
+282,8/25/2023,8,2023,3,CUST282,Female,64,Electronics,4,50,200,Low Value,60+
+283,5/8/2023,5,2023,2,CUST283,Female,18,Electronics,1,500,500,Medium Value,18 - 29
+284,2/8/2023,2,2023,1,CUST284,Male,43,Clothing,4,50,200,Low Value,30 - 44
+285,8/15/2023,8,2023,3,CUST285,Female,31,Electronics,1,25,25,Low Value,30 - 44
+286,10/9/2023,10,2023,4,CUST286,Male,55,Electronics,2,25,50,Low Value,45 - 59
+287,2/20/2023,2,2023,1,CUST287,Male,54,Clothing,4,25,100,Low Value,45 - 59
+288,1/26/2023,1,2023,1,CUST288,Male,28,Clothing,4,30,120,Low Value,18 - 29
+289,11/30/2023,11,2023,4,CUST289,Male,53,Electronics,2,30,60,Low Value,45 - 59
+290,10/4/2023,10,2023,4,CUST290,Female,30,Beauty,2,300,600,Medium Value,30 - 44
+291,1/8/2023,1,2023,1,CUST291,Male,60,Clothing,2,300,600,Medium Value,60+
+292,2/17/2023,2,2023,1,CUST292,Male,20,Beauty,4,300,1200,High Value,18 - 29
+293,5/2/2023,5,2023,2,CUST293,Male,50,Electronics,3,30,90,Low Value,45 - 59
+294,3/27/2023,3,2023,1,CUST294,Female,23,Clothing,3,30,90,Low Value,18 - 29
+295,7/28/2023,7,2023,3,CUST295,Female,27,Beauty,3,300,900,Medium Value,18 - 29
+296,9/6/2023,9,2023,3,CUST296,Female,22,Clothing,4,300,1200,High Value,18 - 29
+297,9/4/2023,9,2023,3,CUST297,Female,40,Electronics,2,500,1000,High Value,30 - 44
+298,4/20/2023,4,2023,2,CUST298,Male,27,Beauty,4,300,1200,High Value,18 - 29
+299,7/25/2023,7,2023,3,CUST299,Male,61,Electronics,2,500,1000,High Value,60+
+300,1/31/2023,1,2023,1,CUST300,Female,19,Electronics,4,50,200,Low Value,18 - 29
+301,3/26/2023,3,2023,1,CUST301,Male,30,Clothing,4,30,120,Low Value,30 - 44
+302,7/14/2023,7,2023,3,CUST302,Male,57,Beauty,2,300,600,Medium Value,45 - 59
+303,1/2/2023,1,2023,1,CUST303,Male,19,Electronics,3,30,90,Low Value,18 - 29
+304,7/19/2023,7,2023,3,CUST304,Female,37,Electronics,2,30,60,Low Value,30 - 44
+305,5/16/2023,5,2023,2,CUST305,Female,18,Beauty,1,30,30,Low Value,18 - 29
+306,8/21/2023,8,2023,3,CUST306,Male,54,Electronics,1,50,50,Low Value,45 - 59
+307,5/27/2023,5,2023,2,CUST307,Female,26,Electronics,2,25,50,Low Value,18 - 29
+308,8/5/2023,8,2023,3,CUST308,Female,34,Beauty,4,300,1200,High Value,30 - 44
+309,12/23/2023,12,2023,4,CUST309,Female,26,Beauty,1,25,25,Low Value,18 - 29
+310,10/12/2023,10,2023,4,CUST310,Female,28,Beauty,1,25,25,Low Value,18 - 29
+311,12/5/2023,12,2023,4,CUST311,Female,32,Beauty,4,25,100,Low Value,30 - 44
+312,9/7/2023,9,2023,3,CUST312,Male,41,Clothing,4,30,120,Low Value,30 - 44
+313,3/21/2023,3,2023,1,CUST313,Female,55,Beauty,3,500,1500,High Value,45 - 59
+314,4/8/2023,4,2023,2,CUST314,Male,52,Clothing,4,30,120,Low Value,45 - 59
+315,6/1/2023,6,2023,2,CUST315,Male,47,Clothing,2,30,60,Low Value,45 - 59
+316,4/22/2023,4,2023,2,CUST316,Female,48,Clothing,2,25,50,Low Value,45 - 59
+317,1/30/2023,1,2023,1,CUST317,Male,22,Electronics,3,30,90,Low Value,18 - 29
+318,10/24/2023,10,2023,4,CUST318,Male,61,Clothing,1,25,25,Low Value,60+
+319,10/5/2023,10,2023,4,CUST319,Male,31,Clothing,1,500,500,Medium Value,30 - 44
+320,2/1/2023,2,2023,1,CUST320,Female,28,Electronics,4,300,1200,High Value,18 - 29
+321,6/10/2023,6,2023,2,CUST321,Female,26,Electronics,2,25,50,Low Value,18 - 29
+322,1/30/2023,1,2023,1,CUST322,Male,51,Electronics,1,500,500,Medium Value,45 - 59
+323,1/26/2023,1,2023,1,CUST323,Female,29,Beauty,3,300,900,Medium Value,18 - 29
+324,10/27/2023,10,2023,4,CUST324,Female,52,Electronics,3,50,150,Low Value,45 - 59
+325,9/2/2023,9,2023,3,CUST325,Female,52,Electronics,2,25,50,Low Value,45 - 59
+326,9/15/2023,9,2023,3,CUST326,Female,18,Clothing,3,25,75,Low Value,18 - 29
+327,9/29/2023,9,2023,3,CUST327,Male,57,Electronics,3,50,150,Low Value,45 - 59
+328,3/22/2023,3,2023,1,CUST328,Male,39,Beauty,2,50,100,Low Value,30 - 44
+329,1/30/2023,1,2023,1,CUST329,Female,46,Electronics,4,25,100,Low Value,45 - 59
+330,9/18/2023,9,2023,3,CUST330,Female,25,Beauty,4,50,200,Low Value,18 - 29
+331,2/11/2023,2,2023,1,CUST331,Male,28,Electronics,3,30,90,Low Value,18 - 29
+332,4/6/2023,4,2023,2,CUST332,Male,58,Electronics,4,300,1200,High Value,45 - 59
+333,2/5/2023,2,2023,1,CUST333,Female,54,Electronics,4,300,1200,High Value,45 - 59
+334,11/1/2023,11,2023,4,CUST334,Male,31,Electronics,3,300,900,Medium Value,30 - 44
+335,2/4/2023,2,2023,1,CUST335,Female,47,Beauty,4,30,120,Low Value,45 - 59
+336,12/12/2023,12,2023,4,CUST336,Female,52,Beauty,3,50,150,Low Value,45 - 59
+337,5/1/2023,5,2023,2,CUST337,Male,38,Clothing,1,500,500,Medium Value,30 - 44
+338,7/26/2023,7,2023,3,CUST338,Male,54,Beauty,2,50,100,Low Value,45 - 59
+339,3/3/2023,3,2023,1,CUST339,Female,22,Electronics,2,25,50,Low Value,18 - 29
+340,10/19/2023,10,2023,4,CUST340,Female,36,Clothing,4,300,1200,High Value,30 - 44
+341,5/7/2023,5,2023,2,CUST341,Male,31,Clothing,4,50,200,Low Value,30 - 44
+342,10/24/2023,10,2023,4,CUST342,Female,43,Clothing,4,500,2000,High Value,30 - 44
+343,11/1/2023,11,2023,4,CUST343,Male,21,Electronics,2,25,50,Low Value,18 - 29
+344,1/21/2023,1,2023,1,CUST344,Female,42,Beauty,1,30,30,Low Value,30 - 44
+345,11/14/2023,11,2023,4,CUST345,Male,62,Electronics,1,30,30,Low Value,60+
+346,2/11/2023,2,2023,1,CUST346,Male,59,Clothing,2,500,1000,High Value,45 - 59
+347,8/3/2023,8,2023,3,CUST347,Male,42,Electronics,1,25,25,Low Value,30 - 44
+348,12/3/2023,12,2023,4,CUST348,Female,35,Electronics,2,300,600,Medium Value,30 - 44
+349,10/26/2023,10,2023,4,CUST349,Female,57,Beauty,1,50,50,Low Value,45 - 59
+350,10/17/2023,10,2023,4,CUST350,Male,25,Beauty,3,25,75,Low Value,18 - 29
+351,9/25/2023,9,2023,3,CUST351,Female,56,Clothing,3,30,90,Low Value,45 - 59
+352,6/11/2023,6,2023,2,CUST352,Male,57,Electronics,2,500,1000,High Value,45 - 59
+353,5/14/2023,5,2023,2,CUST353,Male,31,Electronics,1,500,500,Medium Value,30 - 44
+354,4/15/2023,4,2023,2,CUST354,Female,49,Beauty,4,50,200,Low Value,45 - 59
+355,12/9/2023,12,2023,4,CUST355,Female,55,Electronics,1,500,500,Medium Value,45 - 59
+356,6/10/2023,6,2023,2,CUST356,Male,50,Electronics,3,500,1500,High Value,45 - 59
+357,5/3/2023,5,2023,2,CUST357,Female,40,Electronics,3,25,75,Low Value,30 - 44
+358,5/16/2023,5,2023,2,CUST358,Female,32,Beauty,1,300,300,Low Value,30 - 44
+359,7/22/2023,7,2023,3,CUST359,Male,50,Clothing,1,50,50,Low Value,45 - 59
+360,3/9/2023,3,2023,1,CUST360,Male,42,Clothing,4,25,100,Low Value,30 - 44
+361,12/10/2023,12,2023,4,CUST361,Female,34,Electronics,4,300,1200,High Value,30 - 44
+362,11/27/2023,11,2023,4,CUST362,Male,50,Clothing,1,25,25,Low Value,45 - 59
+363,6/3/2023,6,2023,2,CUST363,Male,64,Beauty,1,25,25,Low Value,60+
+364,8/23/2023,8,2023,3,CUST364,Female,19,Beauty,1,500,500,Medium Value,18 - 29
+365,6/11/2023,6,2023,2,CUST365,Male,31,Clothing,1,300,300,Low Value,30 - 44
+366,2/7/2023,2,2023,1,CUST366,Male,57,Clothing,2,50,100,Low Value,45 - 59
+367,1/5/2023,1,2023,1,CUST367,Female,57,Electronics,1,50,50,Low Value,45 - 59
+368,8/23/2023,8,2023,3,CUST368,Female,56,Clothing,4,300,1200,High Value,45 - 59
+369,11/15/2023,11,2023,4,CUST369,Male,23,Electronics,3,500,1500,High Value,18 - 29
+370,10/16/2023,10,2023,4,CUST370,Male,23,Electronics,2,30,60,Low Value,18 - 29
+371,2/21/2023,2,2023,1,CUST371,Female,20,Beauty,1,25,25,Low Value,18 - 29
+372,2/7/2023,2,2023,1,CUST372,Female,24,Beauty,3,500,1500,High Value,18 - 29
+373,10/3/2023,10,2023,4,CUST373,Female,25,Beauty,2,300,600,Medium Value,18 - 29
+374,4/20/2023,4,2023,2,CUST374,Female,59,Beauty,3,25,75,Low Value,45 - 59
+375,9/17/2023,9,2023,3,CUST375,Male,32,Clothing,1,50,50,Low Value,30 - 44
+376,5/16/2023,5,2023,2,CUST376,Female,64,Beauty,1,30,30,Low Value,60+
+377,3/9/2023,3,2023,1,CUST377,Female,46,Clothing,4,50,200,Low Value,45 - 59
+378,6/28/2023,6,2023,2,CUST378,Male,50,Beauty,1,300,300,Low Value,45 - 59
+379,2/5/2023,2,2023,1,CUST379,Female,47,Clothing,1,25,25,Low Value,45 - 59
+380,5/6/2023,5,2023,2,CUST380,Male,56,Electronics,2,300,600,Medium Value,45 - 59
+381,7/9/2023,7,2023,3,CUST381,Female,44,Clothing,4,25,100,Low Value,30 - 44
+382,5/26/2023,5,2023,2,CUST382,Female,53,Clothing,2,500,1000,High Value,45 - 59
+383,3/22/2023,3,2023,1,CUST383,Female,46,Beauty,3,30,90,Low Value,45 - 59
+384,8/13/2023,8,2023,3,CUST384,Male,55,Clothing,1,500,500,Medium Value,45 - 59
+385,10/6/2023,10,2023,4,CUST385,Male,50,Electronics,3,500,1500,High Value,45 - 59
+386,12/27/2023,12,2023,4,CUST386,Female,54,Electronics,2,300,600,Medium Value,45 - 59
+387,6/4/2023,6,2023,2,CUST387,Male,44,Beauty,1,30,30,Low Value,30 - 44
+388,11/10/2023,11,2023,4,CUST388,Male,50,Electronics,1,25,25,Low Value,45 - 59
+389,12/1/2023,12,2023,4,CUST389,Male,21,Clothing,2,25,50,Low Value,18 - 29
+390,9/28/2023,9,2023,3,CUST390,Male,39,Electronics,2,50,100,Low Value,30 - 44
+391,1/5/2023,1,2023,1,CUST391,Male,19,Beauty,2,25,50,Low Value,18 - 29
+392,12/8/2023,12,2023,4,CUST392,Male,27,Clothing,2,300,600,Medium Value,18 - 29
+393,10/11/2023,10,2023,4,CUST393,Female,22,Beauty,2,500,1000,High Value,18 - 29
+394,6/3/2023,6,2023,2,CUST394,Female,27,Clothing,1,500,500,Medium Value,18 - 29
+395,12/6/2023,12,2023,4,CUST395,Male,50,Electronics,2,500,1000,High Value,45 - 59
+396,2/23/2023,2,2023,1,CUST396,Female,55,Beauty,1,30,30,Low Value,45 - 59
+397,3/10/2023,3,2023,1,CUST397,Female,30,Beauty,1,25,25,Low Value,30 - 44
+398,5/16/2023,5,2023,2,CUST398,Female,48,Clothing,2,300,600,Medium Value,45 - 59
+399,3/1/2023,3,2023,1,CUST399,Female,64,Beauty,2,30,60,Low Value,60+
+400,2/24/2023,2,2023,1,CUST400,Male,53,Clothing,4,50,200,Low Value,45 - 59
+401,10/11/2023,10,2023,4,CUST401,Female,62,Clothing,1,300,300,Low Value,60+
+402,3/21/2023,3,2023,1,CUST402,Female,41,Clothing,2,300,600,Medium Value,30 - 44
+403,5/20/2023,5,2023,2,CUST403,Male,32,Clothing,2,300,600,Medium Value,30 - 44
+404,5/25/2023,5,2023,2,CUST404,Male,46,Electronics,2,500,1000,High Value,45 - 59
+405,11/6/2023,11,2023,4,CUST405,Female,25,Clothing,4,300,1200,High Value,18 - 29
+406,4/18/2023,4,2023,2,CUST406,Female,22,Beauty,4,25,100,Low Value,18 - 29
+407,6/25/2023,6,2023,2,CUST407,Female,46,Electronics,3,300,900,Medium Value,45 - 59
+408,4/15/2023,4,2023,2,CUST408,Female,64,Beauty,1,500,500,Medium Value,60+
+409,12/18/2023,12,2023,4,CUST409,Female,21,Electronics,3,300,900,Medium Value,18 - 29
+410,11/21/2023,11,2023,4,CUST410,Female,29,Clothing,2,50,100,Low Value,18 - 29
+411,5/16/2023,5,2023,2,CUST411,Male,62,Electronics,4,50,200,Low Value,60+
+412,9/16/2023,9,2023,3,CUST412,Female,19,Electronics,4,500,2000,High Value,18 - 29
+413,9/8/2023,9,2023,3,CUST413,Female,44,Beauty,3,25,75,Low Value,30 - 44
+414,5/9/2023,5,2023,2,CUST414,Male,48,Beauty,4,25,100,Low Value,45 - 59
+415,1/27/2023,1,2023,1,CUST415,Male,53,Clothing,2,30,60,Low Value,45 - 59
+416,2/17/2023,2,2023,1,CUST416,Male,53,Electronics,4,500,2000,High Value,45 - 59
+417,11/21/2023,11,2023,4,CUST417,Male,43,Electronics,3,300,900,Medium Value,30 - 44
+418,8/5/2023,8,2023,3,CUST418,Female,60,Electronics,2,500,1000,High Value,60+
+419,5/22/2023,5,2023,2,CUST419,Female,44,Clothing,3,30,90,Low Value,30 - 44
+420,1/23/2023,1,2023,1,CUST420,Female,22,Clothing,4,500,2000,High Value,18 - 29
+421,1/2/2023,1,2023,1,CUST421,Female,37,Clothing,3,500,1500,High Value,30 - 44
+422,6/20/2023,6,2023,2,CUST422,Female,28,Clothing,3,30,90,Low Value,18 - 29
+423,3/8/2023,3,2023,1,CUST423,Female,27,Clothing,1,25,25,Low Value,18 - 29
+424,11/23/2023,11,2023,4,CUST424,Male,57,Beauty,4,300,1200,High Value,45 - 59
+425,5/15/2023,5,2023,2,CUST425,Female,55,Electronics,4,30,120,Low Value,45 - 59
+426,3/24/2023,3,2023,1,CUST426,Male,23,Electronics,3,50,150,Low Value,18 - 29
+427,8/15/2023,8,2023,3,CUST427,Male,25,Electronics,1,25,25,Low Value,18 - 29
+428,10/10/2023,10,2023,4,CUST428,Female,40,Electronics,4,50,200,Low Value,30 - 44
+429,12/28/2023,12,2023,4,CUST429,Male,64,Electronics,2,25,50,Low Value,60+
+430,8/7/2023,8,2023,3,CUST430,Female,43,Electronics,3,300,900,Medium Value,30 - 44
+431,10/15/2023,10,2023,4,CUST431,Male,63,Electronics,4,300,1200,High Value,60+
+432,1/5/2023,1,2023,1,CUST432,Female,60,Electronics,2,500,1000,High Value,60+
+433,2/27/2023,2,2023,1,CUST433,Male,29,Beauty,4,50,200,Low Value,18 - 29
+434,2/8/2023,2,2023,1,CUST434,Female,43,Electronics,2,25,50,Low Value,30 - 44
+435,12/20/2023,12,2023,4,CUST435,Female,30,Beauty,3,300,900,Medium Value,30 - 44
+436,3/18/2023,3,2023,1,CUST436,Female,57,Clothing,4,30,120,Low Value,45 - 59
+437,10/7/2023,10,2023,4,CUST437,Female,35,Electronics,4,300,1200,High Value,30 - 44
+438,1/19/2023,1,2023,1,CUST438,Female,42,Clothing,1,30,30,Low Value,30 - 44
+439,7/9/2023,7,2023,3,CUST439,Male,50,Clothing,3,25,75,Low Value,45 - 59
+440,10/26/2023,10,2023,4,CUST440,Male,64,Clothing,2,300,600,Medium Value,60+
+441,10/10/2023,10,2023,4,CUST441,Male,57,Beauty,4,300,1200,High Value,45 - 59
+442,3/17/2023,3,2023,1,CUST442,Female,60,Clothing,4,25,100,Low Value,60+
+443,8/9/2023,8,2023,3,CUST443,Male,29,Clothing,2,300,600,Medium Value,18 - 29
+444,3/7/2023,3,2023,1,CUST444,Female,61,Clothing,3,30,90,Low Value,60+
+445,1/22/2023,1,2023,1,CUST445,Female,53,Electronics,1,300,300,Low Value,45 - 59
+446,6/7/2023,6,2023,2,CUST446,Male,21,Electronics,1,50,50,Low Value,18 - 29
+447,7/6/2023,7,2023,3,CUST447,Male,22,Beauty,4,500,2000,High Value,18 - 29
+448,1/21/2023,1,2023,1,CUST448,Female,54,Beauty,2,30,60,Low Value,45 - 59
+449,7/3/2023,7,2023,3,CUST449,Male,25,Electronics,4,50,200,Low Value,18 - 29
+450,4/18/2023,4,2023,2,CUST450,Female,59,Beauty,2,25,50,Low Value,45 - 59
+451,12/16/2023,12,2023,4,CUST451,Female,45,Electronics,1,30,30,Low Value,45 - 59
+452,5/8/2023,5,2023,2,CUST452,Female,48,Clothing,3,500,1500,High Value,45 - 59
+453,12/8/2023,12,2023,4,CUST453,Female,26,Clothing,2,500,1000,High Value,18 - 29
+454,2/22/2023,2,2023,1,CUST454,Female,46,Beauty,1,25,25,Low Value,45 - 59
+455,7/1/2023,7,2023,3,CUST455,Male,31,Electronics,4,25,100,Low Value,30 - 44
+456,10/14/2023,10,2023,4,CUST456,Male,57,Electronics,2,30,60,Low Value,45 - 59
+457,7/28/2023,7,2023,3,CUST457,Female,58,Beauty,3,300,900,Medium Value,45 - 59
+458,11/14/2023,11,2023,4,CUST458,Female,39,Electronics,4,25,100,Low Value,30 - 44
+459,3/21/2023,3,2023,1,CUST459,Male,28,Clothing,4,300,1200,High Value,18 - 29
+460,5/2/2023,5,2023,2,CUST460,Male,40,Beauty,1,50,50,Low Value,30 - 44
+461,3/25/2023,3,2023,1,CUST461,Female,18,Beauty,2,500,1000,High Value,18 - 29
+462,4/1/2023,4,2023,2,CUST462,Male,63,Electronics,4,300,1200,High Value,60+
+463,7/31/2023,7,2023,3,CUST463,Female,54,Beauty,3,500,1500,High Value,45 - 59
+464,1/13/2023,1,2023,1,CUST464,Male,38,Electronics,2,300,600,Medium Value,30 - 44
+465,4/2/2023,4,2023,2,CUST465,Female,43,Electronics,3,50,150,Low Value,30 - 44
+466,6/20/2023,6,2023,2,CUST466,Male,63,Electronics,4,25,100,Low Value,60+
+467,7/30/2023,7,2023,3,CUST467,Female,53,Electronics,3,50,150,Low Value,45 - 59
+468,12/9/2023,12,2023,4,CUST468,Male,40,Electronics,1,25,25,Low Value,30 - 44
+469,5/8/2023,5,2023,2,CUST469,Male,18,Beauty,3,25,75,Low Value,18 - 29
+470,5/17/2023,5,2023,2,CUST470,Female,57,Clothing,2,500,1000,High Value,45 - 59
+471,3/23/2023,3,2023,1,CUST471,Male,32,Clothing,3,50,150,Low Value,30 - 44
+472,12/26/2023,12,2023,4,CUST472,Female,38,Beauty,3,300,900,Medium Value,30 - 44
+473,2/25/2023,2,2023,1,CUST473,Male,64,Beauty,1,50,50,Low Value,60+
+474,7/15/2023,7,2023,3,CUST474,Female,26,Clothing,3,500,1500,High Value,18 - 29
+475,1/20/2023,1,2023,1,CUST475,Male,26,Clothing,3,25,75,Low Value,18 - 29
+476,8/29/2023,8,2023,3,CUST476,Female,27,Clothing,4,500,2000,High Value,18 - 29
+477,4/24/2023,4,2023,2,CUST477,Male,43,Clothing,4,30,120,Low Value,30 - 44
+478,4/13/2023,4,2023,2,CUST478,Female,58,Clothing,2,30,60,Low Value,45 - 59
+479,8/24/2023,8,2023,3,CUST479,Male,52,Electronics,4,300,1200,High Value,45 - 59
+480,6/29/2023,6,2023,2,CUST480,Female,42,Beauty,4,500,2000,High Value,30 - 44
+481,6/6/2023,6,2023,2,CUST481,Female,43,Electronics,4,300,1200,High Value,30 - 44
+482,4/27/2023,4,2023,2,CUST482,Female,28,Clothing,4,300,1200,High Value,18 - 29
+483,4/25/2023,4,2023,2,CUST483,Male,55,Clothing,1,30,30,Low Value,45 - 59
+484,1/13/2023,1,2023,1,CUST484,Female,19,Clothing,4,300,1200,High Value,18 - 29
+485,12/4/2023,12,2023,4,CUST485,Male,24,Electronics,1,30,30,Low Value,18 - 29
+486,4/9/2023,4,2023,2,CUST486,Female,35,Electronics,1,25,25,Low Value,30 - 44
+487,7/24/2023,7,2023,3,CUST487,Male,44,Clothing,4,500,2000,High Value,30 - 44
+488,6/18/2023,6,2023,2,CUST488,Female,51,Electronics,3,300,900,Medium Value,45 - 59
+489,5/23/2023,5,2023,2,CUST489,Male,44,Electronics,1,30,30,Low Value,30 - 44
+490,2/5/2023,2,2023,1,CUST490,Male,34,Clothing,3,50,150,Low Value,30 - 44
+491,5/23/2023,5,2023,2,CUST491,Female,60,Electronics,3,300,900,Medium Value,60+
+492,6/29/2023,6,2023,2,CUST492,Male,61,Beauty,4,25,100,Low Value,60+
+493,11/25/2023,11,2023,4,CUST493,Male,41,Beauty,2,25,50,Low Value,30 - 44
+494,9/18/2023,9,2023,3,CUST494,Female,42,Beauty,4,50,200,Low Value,30 - 44
+495,7/24/2023,7,2023,3,CUST495,Male,24,Beauty,2,30,60,Low Value,18 - 29
+496,12/14/2023,12,2023,4,CUST496,Male,23,Clothing,2,300,600,Medium Value,18 - 29
+497,10/2/2023,10,2023,4,CUST497,Male,41,Clothing,4,30,120,Low Value,30 - 44
+498,6/19/2023,6,2023,2,CUST498,Female,50,Clothing,4,25,100,Low Value,45 - 59
+499,1/15/2023,1,2023,1,CUST499,Male,46,Beauty,2,30,60,Low Value,45 - 59
+500,3/1/2023,3,2023,1,CUST500,Female,60,Beauty,4,25,100,Low Value,60+
+501,5/14/2023,5,2023,2,CUST501,Male,39,Electronics,2,30,60,Low Value,30 - 44
+502,4/2/2023,4,2023,2,CUST502,Male,43,Electronics,3,50,150,Low Value,30 - 44
+503,10/25/2023,10,2023,4,CUST503,Male,45,Beauty,4,500,2000,High Value,45 - 59
+504,5/16/2023,5,2023,2,CUST504,Female,38,Beauty,3,50,150,Low Value,30 - 44
+505,1/20/2023,1,2023,1,CUST505,Male,24,Beauty,1,50,50,Low Value,18 - 29
+506,2/25/2023,2,2023,1,CUST506,Male,34,Beauty,3,500,1500,High Value,30 - 44
+507,11/2/2023,11,2023,4,CUST507,Female,37,Electronics,3,500,1500,High Value,30 - 44
+508,8/11/2023,8,2023,3,CUST508,Male,58,Beauty,2,300,600,Medium Value,45 - 59
+509,6/26/2023,6,2023,2,CUST509,Female,37,Electronics,3,300,900,Medium Value,30 - 44
+510,6/10/2023,6,2023,2,CUST510,Female,39,Beauty,4,50,200,Low Value,30 - 44
+511,8/12/2023,8,2023,3,CUST511,Male,45,Beauty,2,50,100,Low Value,45 - 59
+512,11/7/2023,11,2023,4,CUST512,Female,57,Beauty,1,25,25,Low Value,45 - 59
+513,9/19/2023,9,2023,3,CUST513,Male,24,Electronics,4,25,100,Low Value,18 - 29
+514,3/1/2023,3,2023,1,CUST514,Female,18,Electronics,1,300,300,Low Value,18 - 29
+515,7/17/2023,7,2023,3,CUST515,Female,49,Clothing,3,300,900,Medium Value,45 - 59
+516,10/23/2023,10,2023,4,CUST516,Male,30,Beauty,4,25,100,Low Value,30 - 44
+517,4/8/2023,4,2023,2,CUST517,Female,47,Clothing,4,25,100,Low Value,45 - 59
+518,5/11/2023,5,2023,2,CUST518,Female,40,Clothing,1,30,30,Low Value,30 - 44
+519,1/23/2023,1,2023,1,CUST519,Female,36,Electronics,4,30,120,Low Value,30 - 44
+520,12/29/2023,12,2023,4,CUST520,Female,49,Electronics,4,25,100,Low Value,45 - 59
+521,8/12/2023,8,2023,3,CUST521,Female,47,Clothing,4,30,120,Low Value,45 - 59
+522,1/1/2023,1,2023,1,CUST522,Male,46,Beauty,3,500,1500,High Value,45 - 59
+523,9/24/2023,9,2023,3,CUST523,Female,62,Electronics,1,300,300,Low Value,60+
+524,10/3/2023,10,2023,4,CUST524,Male,46,Beauty,4,300,1200,High Value,45 - 59
+525,12/18/2023,12,2023,4,CUST525,Female,47,Beauty,2,25,50,Low Value,45 - 59
+526,12/10/2023,12,2023,4,CUST526,Male,33,Clothing,2,50,100,Low Value,30 - 44
+527,4/11/2023,4,2023,2,CUST527,Male,57,Clothing,2,25,50,Low Value,45 - 59
+528,7/6/2023,7,2023,3,CUST528,Female,36,Clothing,2,30,60,Low Value,30 - 44
+529,8/9/2023,8,2023,3,CUST529,Female,35,Clothing,3,50,150,Low Value,30 - 44
+530,2/5/2023,2,2023,1,CUST530,Female,18,Electronics,4,30,120,Low Value,18 - 29
+531,12/7/2023,12,2023,4,CUST531,Male,31,Electronics,1,500,500,Medium Value,30 - 44
+532,6/19/2023,6,2023,2,CUST532,Female,64,Clothing,4,30,120,Low Value,60+
+533,11/16/2023,11,2023,4,CUST533,Male,19,Electronics,3,500,1500,High Value,18 - 29
+534,6/10/2023,6,2023,2,CUST534,Male,45,Clothing,2,500,1000,High Value,45 - 59
+535,12/6/2023,12,2023,4,CUST535,Male,47,Beauty,3,30,90,Low Value,45 - 59
+536,3/5/2023,3,2023,1,CUST536,Female,55,Beauty,4,30,120,Low Value,45 - 59
+537,6/3/2023,6,2023,2,CUST537,Female,21,Beauty,1,500,500,Medium Value,18 - 29
+538,9/17/2023,9,2023,3,CUST538,Male,18,Clothing,3,50,150,Low Value,18 - 29
+539,6/8/2023,6,2023,2,CUST539,Male,25,Beauty,1,500,500,Medium Value,18 - 29
+540,12/8/2023,12,2023,4,CUST540,Female,46,Electronics,3,300,900,Medium Value,45 - 59
+541,7/29/2023,7,2023,3,CUST541,Male,56,Beauty,1,500,500,Medium Value,45 - 59
+542,6/17/2023,6,2023,2,CUST542,Female,20,Beauty,1,50,50,Low Value,18 - 29
+543,7/26/2023,7,2023,3,CUST543,Male,49,Beauty,2,300,600,Medium Value,45 - 59
+544,12/23/2023,12,2023,4,CUST544,Female,27,Electronics,1,25,25,Low Value,18 - 29
+545,6/1/2023,6,2023,2,CUST545,Male,27,Clothing,2,25,50,Low Value,18 - 29
+546,10/11/2023,10,2023,4,CUST546,Female,36,Electronics,4,50,200,Low Value,30 - 44
+547,3/7/2023,3,2023,1,CUST547,Male,63,Clothing,4,500,2000,High Value,60+
+548,4/9/2023,4,2023,2,CUST548,Female,51,Clothing,2,30,60,Low Value,45 - 59
+549,8/4/2023,8,2023,3,CUST549,Female,50,Beauty,2,50,100,Low Value,45 - 59
+550,12/7/2023,12,2023,4,CUST550,Male,40,Clothing,3,300,900,Medium Value,30 - 44
+551,7/14/2023,7,2023,3,CUST551,Male,45,Electronics,3,300,900,Medium Value,45 - 59
+552,12/13/2023,12,2023,4,CUST552,Female,49,Electronics,3,25,75,Low Value,45 - 59
+553,3/31/2023,3,2023,1,CUST553,Male,24,Clothing,4,300,1200,High Value,18 - 29
+554,11/12/2023,11,2023,4,CUST554,Female,46,Beauty,3,50,150,Low Value,45 - 59
+555,10/19/2023,10,2023,4,CUST555,Male,25,Beauty,1,300,300,Low Value,18 - 29
+556,6/4/2023,6,2023,2,CUST556,Female,18,Electronics,1,50,50,Low Value,18 - 29
+557,7/27/2023,7,2023,3,CUST557,Female,20,Beauty,3,30,90,Low Value,18 - 29
+558,10/8/2023,10,2023,4,CUST558,Female,41,Clothing,1,25,25,Low Value,30 - 44
+559,1/1/2023,1,2023,1,CUST559,Female,40,Clothing,4,300,1200,High Value,30 - 44
+560,6/5/2023,6,2023,2,CUST560,Female,25,Electronics,1,50,50,Low Value,18 - 29
+561,5/27/2023,5,2023,2,CUST561,Female,64,Clothing,4,500,2000,High Value,60+
+562,4/18/2023,4,2023,2,CUST562,Male,54,Electronics,2,25,50,Low Value,45 - 59
+563,8/9/2023,8,2023,3,CUST563,Male,20,Clothing,2,30,60,Low Value,18 - 29
+564,10/24/2023,10,2023,4,CUST564,Male,50,Electronics,2,50,100,Low Value,45 - 59
+565,11/7/2023,11,2023,4,CUST565,Female,45,Beauty,2,30,60,Low Value,45 - 59
+566,12/2/2023,12,2023,4,CUST566,Female,64,Clothing,1,30,30,Low Value,60+
+567,6/14/2023,6,2023,2,CUST567,Female,25,Clothing,3,300,900,Medium Value,18 - 29
+568,8/27/2023,8,2023,3,CUST568,Female,51,Electronics,1,300,300,Low Value,45 - 59
+569,8/15/2023,8,2023,3,CUST569,Male,52,Electronics,4,50,200,Low Value,45 - 59
+570,8/15/2023,8,2023,3,CUST570,Male,49,Clothing,1,500,500,Medium Value,45 - 59
+571,12/12/2023,12,2023,4,CUST571,Female,41,Electronics,1,50,50,Low Value,30 - 44
+572,4/20/2023,4,2023,2,CUST572,Male,31,Clothing,4,500,2000,High Value,30 - 44
+573,9/19/2023,9,2023,3,CUST573,Male,49,Beauty,2,30,60,Low Value,45 - 59
+574,8/31/2023,8,2023,3,CUST574,Female,63,Electronics,2,25,50,Low Value,60+
+575,3/28/2023,3,2023,1,CUST575,Male,60,Clothing,2,50,100,Low Value,60+
+576,12/4/2023,12,2023,4,CUST576,Female,33,Beauty,3,50,150,Low Value,30 - 44
+577,2/13/2023,2,2023,1,CUST577,Male,21,Beauty,4,500,2000,High Value,18 - 29
+578,5/26/2023,5,2023,2,CUST578,Female,54,Clothing,4,30,120,Low Value,45 - 59
+579,9/21/2023,9,2023,3,CUST579,Female,38,Electronics,1,30,30,Low Value,30 - 44
+580,12/6/2023,12,2023,4,CUST580,Female,31,Clothing,3,500,1500,High Value,30 - 44
+581,11/21/2023,11,2023,4,CUST581,Female,48,Beauty,2,30,60,Low Value,45 - 59
+582,11/14/2023,11,2023,4,CUST582,Male,35,Clothing,3,300,900,Medium Value,30 - 44
+583,6/21/2023,6,2023,2,CUST583,Female,24,Electronics,4,25,100,Low Value,18 - 29
+584,2/17/2023,2,2023,1,CUST584,Female,27,Beauty,4,50,200,Low Value,18 - 29
+585,5/1/2023,5,2023,2,CUST585,Female,24,Clothing,1,25,25,Low Value,18 - 29
+586,12/11/2023,12,2023,4,CUST586,Male,50,Electronics,1,50,50,Low Value,45 - 59
+587,6/8/2023,6,2023,2,CUST587,Female,40,Beauty,4,300,1200,High Value,30 - 44
+588,4/26/2023,4,2023,2,CUST588,Male,38,Electronics,2,30,60,Low Value,30 - 44
+589,4/12/2023,4,2023,2,CUST589,Female,36,Beauty,2,500,1000,High Value,30 - 44
+590,3/17/2023,3,2023,1,CUST590,Male,36,Clothing,3,300,900,Medium Value,30 - 44
+591,1/13/2023,1,2023,1,CUST591,Male,53,Electronics,4,25,100,Low Value,45 - 59
+592,1/24/2023,1,2023,1,CUST592,Female,46,Beauty,4,500,2000,High Value,45 - 59
+593,5/6/2023,5,2023,2,CUST593,Male,35,Electronics,2,30,60,Low Value,30 - 44
+594,9/1/2023,9,2023,3,CUST594,Female,19,Electronics,2,300,600,Medium Value,18 - 29
+595,11/9/2023,11,2023,4,CUST595,Female,18,Clothing,4,500,2000,High Value,18 - 29
+596,2/7/2023,2,2023,1,CUST596,Female,64,Electronics,1,300,300,Low Value,60+
+597,8/22/2023,8,2023,3,CUST597,Male,22,Beauty,4,300,1200,High Value,18 - 29
+598,8/1/2023,8,2023,3,CUST598,Male,37,Beauty,4,30,120,Low Value,30 - 44
+599,11/19/2023,11,2023,4,CUST599,Female,28,Beauty,2,50,100,Low Value,18 - 29
+600,10/22/2023,10,2023,4,CUST600,Female,59,Beauty,2,500,1000,High Value,45 - 59
+601,4/10/2023,4,2023,2,CUST601,Male,19,Clothing,1,30,30,Low Value,18 - 29
+602,12/23/2023,12,2023,4,CUST602,Female,20,Electronics,1,300,300,Low Value,18 - 29
+603,7/16/2023,7,2023,3,CUST603,Female,40,Clothing,3,30,90,Low Value,30 - 44
+604,9/11/2023,9,2023,3,CUST604,Female,29,Electronics,4,50,200,Low Value,18 - 29
+605,7/24/2023,7,2023,3,CUST605,Male,37,Electronics,2,500,1000,High Value,30 - 44
+606,5/5/2023,5,2023,2,CUST606,Male,22,Electronics,1,50,50,Low Value,18 - 29
+607,3/17/2023,3,2023,1,CUST607,Male,54,Clothing,3,25,75,Low Value,45 - 59
+608,12/2/2023,12,2023,4,CUST608,Female,55,Electronics,3,500,1500,High Value,45 - 59
+609,12/19/2023,12,2023,4,CUST609,Female,47,Clothing,2,50,100,Low Value,45 - 59
+610,1/3/2023,1,2023,1,CUST610,Female,26,Beauty,2,300,600,Medium Value,18 - 29
+611,2/24/2023,2,2023,1,CUST611,Male,51,Beauty,3,500,1500,High Value,45 - 59
+612,8/6/2023,8,2023,3,CUST612,Female,61,Electronics,1,500,500,Medium Value,60+
+613,4/23/2023,4,2023,2,CUST613,Female,52,Clothing,3,30,90,Low Value,45 - 59
+614,4/1/2023,4,2023,2,CUST614,Female,39,Beauty,4,300,1200,High Value,30 - 44
+615,12/23/2023,12,2023,4,CUST615,Female,61,Clothing,4,25,100,Low Value,60+
+616,9/23/2023,9,2023,3,CUST616,Male,41,Clothing,2,50,100,Low Value,30 - 44
+617,8/26/2023,8,2023,3,CUST617,Male,34,Electronics,1,30,30,Low Value,30 - 44
+618,1/26/2023,1,2023,1,CUST618,Female,27,Beauty,1,50,50,Low Value,18 - 29
+619,10/13/2023,10,2023,4,CUST619,Male,47,Electronics,4,25,100,Low Value,45 - 59
+620,5/8/2023,5,2023,2,CUST620,Male,63,Electronics,3,25,75,Low Value,60+
+621,3/4/2023,3,2023,1,CUST621,Female,40,Beauty,2,500,1000,High Value,30 - 44
+622,8/22/2023,8,2023,3,CUST622,Female,49,Beauty,3,25,75,Low Value,45 - 59
+623,3/10/2023,3,2023,1,CUST623,Male,34,Clothing,3,50,150,Low Value,30 - 44
+624,8/26/2023,8,2023,3,CUST624,Female,34,Beauty,3,300,900,Medium Value,30 - 44
+625,12/8/2023,12,2023,4,CUST625,Male,31,Clothing,1,300,300,Low Value,30 - 44
+626,9/29/2023,9,2023,3,CUST626,Female,26,Clothing,4,500,2000,High Value,18 - 29
+627,10/14/2023,10,2023,4,CUST627,Male,57,Clothing,1,50,50,Low Value,45 - 59
+628,11/1/2023,11,2023,4,CUST628,Female,19,Beauty,4,50,200,Low Value,18 - 29
+629,6/12/2023,6,2023,2,CUST629,Male,62,Electronics,2,25,50,Low Value,60+
+630,8/15/2023,8,2023,3,CUST630,Male,42,Clothing,2,50,100,Low Value,30 - 44
+631,11/10/2023,11,2023,4,CUST631,Male,56,Electronics,3,30,90,Low Value,45 - 59
+632,9/16/2023,9,2023,3,CUST632,Female,26,Electronics,4,25,100,Low Value,18 - 29
+633,8/7/2023,8,2023,3,CUST633,Male,39,Beauty,4,30,120,Low Value,30 - 44
+634,10/8/2023,10,2023,4,CUST634,Male,60,Electronics,4,500,2000,High Value,60+
+635,8/17/2023,8,2023,3,CUST635,Female,63,Electronics,3,300,900,Medium Value,60+
+636,3/23/2023,3,2023,1,CUST636,Female,21,Beauty,3,500,1500,High Value,18 - 29
+637,9/1/2023,9,2023,3,CUST637,Male,43,Clothing,2,300,600,Medium Value,30 - 44
+638,8/19/2023,8,2023,3,CUST638,Male,46,Electronics,1,500,500,Medium Value,45 - 59
+639,5/13/2023,5,2023,2,CUST639,Female,62,Beauty,4,50,200,Low Value,60+
+640,5/7/2023,5,2023,2,CUST640,Female,51,Electronics,4,30,120,Low Value,45 - 59
+641,11/23/2023,11,2023,4,CUST641,Female,40,Electronics,1,300,300,Low Value,30 - 44
+642,5/22/2023,5,2023,2,CUST642,Female,54,Clothing,4,25,100,Low Value,45 - 59
+643,9/24/2023,9,2023,3,CUST643,Female,28,Electronics,3,30,90,Low Value,18 - 29
+644,9/6/2023,9,2023,3,CUST644,Male,23,Beauty,3,25,75,Low Value,18 - 29
+645,11/17/2023,11,2023,4,CUST645,Female,35,Electronics,4,30,120,Low Value,30 - 44
+646,5/3/2023,5,2023,2,CUST646,Male,38,Clothing,3,30,90,Low Value,30 - 44
+647,5/21/2023,5,2023,2,CUST647,Male,59,Clothing,3,500,1500,High Value,45 - 59
+648,8/14/2023,8,2023,3,CUST648,Male,53,Beauty,4,300,1200,High Value,45 - 59
+649,2/9/2023,2,2023,1,CUST649,Female,58,Clothing,2,300,600,Medium Value,45 - 59
+650,1/1/2024,1,2024,1,CUST650,Male,55,Electronics,1,30,30,Low Value,45 - 59
+651,5/27/2023,5,2023,2,CUST651,Male,51,Clothing,3,50,150,Low Value,45 - 59
+652,5/1/2023,5,2023,2,CUST652,Female,34,Beauty,2,50,100,Low Value,30 - 44
+653,5/20/2023,5,2023,2,CUST653,Male,54,Clothing,3,25,75,Low Value,45 - 59
+654,6/21/2023,6,2023,2,CUST654,Male,42,Clothing,3,25,75,Low Value,30 - 44
+655,6/13/2023,6,2023,2,CUST655,Female,55,Clothing,1,500,500,Medium Value,45 - 59
+656,10/4/2023,10,2023,4,CUST656,Male,29,Beauty,3,30,90,Low Value,18 - 29
+657,2/11/2023,2,2023,1,CUST657,Male,40,Clothing,1,25,25,Low Value,30 - 44
+658,3/12/2023,3,2023,1,CUST658,Male,59,Clothing,1,25,25,Low Value,45 - 59
+659,3/19/2023,3,2023,1,CUST659,Female,39,Electronics,1,30,30,Low Value,30 - 44
+660,4/29/2023,4,2023,2,CUST660,Female,38,Beauty,2,500,1000,High Value,30 - 44
+661,7/16/2023,7,2023,3,CUST661,Female,44,Clothing,4,25,100,Low Value,30 - 44
+662,12/22/2023,12,2023,4,CUST662,Male,48,Beauty,2,500,1000,High Value,45 - 59
+663,3/20/2023,3,2023,1,CUST663,Male,23,Clothing,4,300,1200,High Value,18 - 29
+664,12/28/2023,12,2023,4,CUST664,Female,44,Clothing,4,500,2000,High Value,30 - 44
+665,4/20/2023,4,2023,2,CUST665,Male,57,Clothing,1,50,50,Low Value,45 - 59
+666,2/2/2023,2,2023,1,CUST666,Male,51,Electronics,3,50,150,Low Value,45 - 59
+667,8/1/2023,8,2023,3,CUST667,Female,29,Electronics,1,500,500,Medium Value,18 - 29
+668,7/28/2023,7,2023,3,CUST668,Female,62,Electronics,3,50,150,Low Value,60+
+669,6/19/2023,6,2023,2,CUST669,Male,24,Beauty,4,300,1200,High Value,18 - 29
+670,10/5/2023,10,2023,4,CUST670,Male,27,Beauty,1,30,30,Low Value,18 - 29
+671,8/27/2023,8,2023,3,CUST671,Male,62,Electronics,3,50,150,Low Value,60+
+672,8/1/2023,8,2023,3,CUST672,Female,34,Beauty,2,50,100,Low Value,30 - 44
+673,2/1/2023,2,2023,1,CUST673,Female,43,Clothing,3,500,1500,High Value,30 - 44
+674,4/16/2023,4,2023,2,CUST674,Female,38,Clothing,1,300,300,Low Value,30 - 44
+675,8/4/2023,8,2023,3,CUST675,Female,45,Clothing,2,30,60,Low Value,45 - 59
+676,7/19/2023,7,2023,3,CUST676,Male,63,Electronics,3,500,1500,High Value,60+
+677,10/27/2023,10,2023,4,CUST677,Female,19,Beauty,3,500,1500,High Value,18 - 29
+678,12/23/2023,12,2023,4,CUST678,Female,60,Electronics,3,300,900,Medium Value,60+
+679,1/11/2023,1,2023,1,CUST679,Female,18,Beauty,3,30,90,Low Value,18 - 29
+680,10/22/2023,10,2023,4,CUST680,Female,53,Clothing,3,300,900,Medium Value,45 - 59
+681,7/14/2023,7,2023,3,CUST681,Female,43,Electronics,2,30,60,Low Value,30 - 44
+682,9/2/2023,9,2023,3,CUST682,Male,46,Beauty,4,300,1200,High Value,45 - 59
+683,1/4/2023,1,2023,1,CUST683,Male,38,Beauty,2,500,1000,High Value,30 - 44
+684,6/30/2023,6,2023,2,CUST684,Female,28,Clothing,2,500,1000,High Value,18 - 29
+685,6/2/2023,6,2023,2,CUST685,Male,57,Electronics,2,25,50,Low Value,45 - 59
+686,7/19/2023,7,2023,3,CUST686,Female,28,Electronics,4,50,200,Low Value,18 - 29
+687,8/3/2023,8,2023,3,CUST687,Female,53,Electronics,1,300,300,Low Value,45 - 59
+688,10/3/2023,10,2023,4,CUST688,Male,56,Clothing,4,25,100,Low Value,45 - 59
+689,10/7/2023,10,2023,4,CUST689,Male,57,Electronics,2,50,100,Low Value,45 - 59
+690,11/5/2023,11,2023,4,CUST690,Female,52,Clothing,3,300,900,Medium Value,45 - 59
+691,4/23/2023,4,2023,2,CUST691,Female,51,Clothing,3,30,90,Low Value,45 - 59
+692,9/7/2023,9,2023,3,CUST692,Female,64,Clothing,2,50,100,Low Value,60+
+693,4/23/2023,4,2023,2,CUST693,Male,41,Beauty,3,500,1500,High Value,30 - 44
+694,5/20/2023,5,2023,2,CUST694,Female,39,Electronics,2,25,50,Low Value,30 - 44
+695,8/12/2023,8,2023,3,CUST695,Female,22,Electronics,3,50,150,Low Value,18 - 29
+696,9/6/2023,9,2023,3,CUST696,Female,50,Clothing,4,50,200,Low Value,45 - 59
+697,1/15/2023,1,2023,1,CUST697,Male,53,Clothing,1,500,500,Medium Value,45 - 59
+698,7/19/2023,7,2023,3,CUST698,Female,64,Electronics,1,300,300,Low Value,60+
+699,6/22/2023,6,2023,2,CUST699,Female,37,Clothing,4,30,120,Low Value,30 - 44
+700,12/9/2023,12,2023,4,CUST700,Male,36,Electronics,4,500,2000,High Value,30 - 44
+701,12/14/2023,12,2023,4,CUST701,Female,52,Beauty,2,30,60,Low Value,45 - 59
+702,7/27/2023,7,2023,3,CUST702,Female,60,Clothing,2,300,600,Medium Value,60+
+703,3/26/2023,3,2023,1,CUST703,Male,34,Electronics,2,50,100,Low Value,30 - 44
+704,8/28/2023,8,2023,3,CUST704,Female,62,Clothing,3,30,90,Low Value,60+
+705,3/7/2023,3,2023,1,CUST705,Male,60,Electronics,2,25,50,Low Value,60+
+706,11/15/2023,11,2023,4,CUST706,Male,51,Electronics,4,25,100,Low Value,45 - 59
+707,10/1/2023,10,2023,4,CUST707,Female,26,Clothing,1,500,500,Medium Value,18 - 29
+708,1/14/2023,1,2023,1,CUST708,Female,43,Beauty,3,300,900,Medium Value,30 - 44
+709,7/21/2023,7,2023,3,CUST709,Female,19,Electronics,2,500,1000,High Value,18 - 29
+710,10/31/2023,10,2023,4,CUST710,Female,26,Electronics,3,500,1500,High Value,18 - 29
+711,10/16/2023,10,2023,4,CUST711,Male,26,Electronics,3,500,1500,High Value,18 - 29
+712,12/6/2023,12,2023,4,CUST712,Female,57,Beauty,2,25,50,Low Value,45 - 59
+713,1/14/2023,1,2023,1,CUST713,Male,34,Beauty,3,25,75,Low Value,30 - 44
+714,2/12/2023,2,2023,1,CUST714,Female,18,Clothing,1,500,500,Medium Value,18 - 29
+715,11/26/2023,11,2023,4,CUST715,Female,42,Beauty,4,25,100,Low Value,30 - 44
+716,8/8/2023,8,2023,3,CUST716,Female,60,Clothing,4,300,1200,High Value,60+
+717,3/11/2023,3,2023,1,CUST717,Male,57,Clothing,1,500,500,Medium Value,45 - 59
+718,8/25/2023,8,2023,3,CUST718,Female,59,Beauty,3,25,75,Low Value,45 - 59
+719,4/4/2023,4,2023,2,CUST719,Female,42,Clothing,2,30,60,Low Value,30 - 44
+720,1/26/2023,1,2023,1,CUST720,Female,56,Beauty,3,500,1500,High Value,45 - 59
+721,5/14/2023,5,2023,2,CUST721,Female,52,Clothing,1,500,500,Medium Value,45 - 59
+722,7/14/2023,7,2023,3,CUST722,Male,20,Beauty,3,300,900,Medium Value,18 - 29
+723,6/17/2023,6,2023,2,CUST723,Female,54,Beauty,4,50,200,Low Value,45 - 59
+724,4/19/2023,4,2023,2,CUST724,Male,61,Clothing,3,50,150,Low Value,60+
+725,8/21/2023,8,2023,3,CUST725,Male,61,Electronics,1,300,300,Low Value,60+
+726,6/17/2023,6,2023,2,CUST726,Male,47,Clothing,4,300,1200,High Value,45 - 59
+727,6/22/2023,6,2023,2,CUST727,Male,55,Beauty,3,300,900,Medium Value,45 - 59
+728,7/14/2023,7,2023,3,CUST728,Male,51,Electronics,3,50,150,Low Value,45 - 59
+729,5/23/2023,5,2023,2,CUST729,Male,29,Clothing,4,300,1200,High Value,18 - 29
+730,8/4/2023,8,2023,3,CUST730,Female,36,Clothing,2,25,50,Low Value,30 - 44
+731,5/10/2023,5,2023,2,CUST731,Male,54,Clothing,4,500,2000,High Value,45 - 59
+732,2/11/2023,2,2023,1,CUST732,Male,61,Electronics,2,500,1000,High Value,60+
+733,8/29/2023,8,2023,3,CUST733,Male,34,Beauty,1,30,30,Low Value,30 - 44
+734,1/10/2023,1,2023,1,CUST734,Female,27,Clothing,1,30,30,Low Value,18 - 29
+735,10/4/2023,10,2023,4,CUST735,Female,64,Clothing,4,500,2000,High Value,60+
+736,1/27/2023,1,2023,1,CUST736,Male,29,Clothing,4,25,100,Low Value,18 - 29
+737,6/29/2023,6,2023,2,CUST737,Female,33,Clothing,1,50,50,Low Value,30 - 44
+738,4/25/2023,4,2023,2,CUST738,Male,41,Clothing,2,50,100,Low Value,30 - 44
+739,11/29/2023,11,2023,4,CUST739,Male,36,Beauty,1,25,25,Low Value,30 - 44
+740,2/5/2023,2,2023,1,CUST740,Female,25,Beauty,4,50,200,Low Value,18 - 29
+741,11/30/2023,11,2023,4,CUST741,Male,48,Clothing,1,300,300,Low Value,45 - 59
+742,1/21/2023,1,2023,1,CUST742,Female,38,Electronics,4,500,2000,High Value,30 - 44
+743,1/16/2023,1,2023,1,CUST743,Female,34,Beauty,4,500,2000,High Value,30 - 44
+744,5/7/2023,5,2023,2,CUST744,Male,40,Electronics,1,25,25,Low Value,30 - 44
+745,4/13/2023,4,2023,2,CUST745,Male,54,Beauty,2,50,100,Low Value,45 - 59
+746,1/11/2023,1,2023,1,CUST746,Female,33,Clothing,3,30,90,Low Value,30 - 44
+747,11/15/2023,11,2023,4,CUST747,Male,23,Beauty,1,30,30,Low Value,18 - 29
+748,3/20/2023,3,2023,1,CUST748,Male,25,Clothing,3,50,150,Low Value,18 - 29
+749,5/3/2023,5,2023,2,CUST749,Male,42,Beauty,1,30,30,Low Value,30 - 44
+750,3/6/2023,3,2023,1,CUST750,Female,35,Clothing,3,25,75,Low Value,30 - 44
+751,8/31/2023,8,2023,3,CUST751,Female,42,Clothing,2,25,50,Low Value,30 - 44
+752,12/9/2023,12,2023,4,CUST752,Male,29,Clothing,2,50,100,Low Value,18 - 29
+753,2/28/2023,2,2023,1,CUST753,Female,32,Clothing,1,30,30,Low Value,30 - 44
+754,10/16/2023,10,2023,4,CUST754,Female,43,Electronics,4,25,100,Low Value,30 - 44
+755,4/22/2023,4,2023,2,CUST755,Female,58,Clothing,3,25,75,Low Value,45 - 59
+756,8/27/2023,8,2023,3,CUST756,Female,62,Electronics,4,300,1200,High Value,60+
+757,12/25/2023,12,2023,4,CUST757,Female,43,Electronics,4,300,1200,High Value,30 - 44
+758,5/12/2023,5,2023,2,CUST758,Male,64,Clothing,4,25,100,Low Value,60+
+759,7/8/2023,7,2023,3,CUST759,Male,49,Electronics,2,50,100,Low Value,45 - 59
+760,3/27/2023,3,2023,1,CUST760,Male,27,Beauty,1,500,500,Medium Value,18 - 29
+761,11/7/2023,11,2023,4,CUST761,Female,33,Clothing,1,500,500,Medium Value,30 - 44
+762,11/7/2023,11,2023,4,CUST762,Female,24,Electronics,2,25,50,Low Value,18 - 29
+763,2/28/2023,2,2023,1,CUST763,Male,34,Clothing,2,25,50,Low Value,30 - 44
+764,3/25/2023,3,2023,1,CUST764,Female,40,Clothing,1,25,25,Low Value,30 - 44
+765,6/9/2023,6,2023,2,CUST765,Male,43,Clothing,4,50,200,Low Value,30 - 44
+766,2/25/2023,2,2023,1,CUST766,Male,38,Electronics,3,300,900,Medium Value,30 - 44
+767,10/24/2023,10,2023,4,CUST767,Male,39,Beauty,3,25,75,Low Value,30 - 44
+768,1/14/2023,1,2023,1,CUST768,Female,24,Beauty,3,25,75,Low Value,18 - 29
+769,6/9/2023,6,2023,2,CUST769,Female,31,Electronics,4,30,120,Low Value,30 - 44
+770,10/22/2023,10,2023,4,CUST770,Male,32,Clothing,1,50,50,Low Value,30 - 44
+771,12/13/2023,12,2023,4,CUST771,Male,24,Electronics,2,25,50,Low Value,18 - 29
+772,7/12/2023,7,2023,3,CUST772,Male,26,Electronics,1,30,30,Low Value,18 - 29
+773,7/23/2023,7,2023,3,CUST773,Male,25,Electronics,4,500,2000,High Value,18 - 29
+774,4/12/2023,4,2023,2,CUST774,Female,40,Clothing,2,25,50,Low Value,30 - 44
+775,2/8/2023,2,2023,1,CUST775,Female,46,Electronics,4,25,100,Low Value,45 - 59
+776,10/31/2023,10,2023,4,CUST776,Male,35,Clothing,3,30,90,Low Value,30 - 44
+777,12/20/2023,12,2023,4,CUST777,Male,48,Electronics,3,50,150,Low Value,45 - 59
+778,11/18/2023,11,2023,4,CUST778,Female,47,Beauty,4,25,100,Low Value,45 - 59
+779,5/5/2023,5,2023,2,CUST779,Female,56,Electronics,2,500,1000,High Value,45 - 59
+780,2/22/2023,2,2023,1,CUST780,Male,52,Electronics,2,25,50,Low Value,45 - 59
+781,12/23/2023,12,2023,4,CUST781,Male,35,Beauty,1,500,500,Medium Value,30 - 44
+782,6/4/2023,6,2023,2,CUST782,Male,59,Clothing,3,300,900,Medium Value,45 - 59
+783,12/17/2023,12,2023,4,CUST783,Female,56,Clothing,1,300,300,Low Value,45 - 59
+784,11/4/2023,11,2023,4,CUST784,Female,34,Electronics,1,500,500,Medium Value,30 - 44
+785,3/3/2023,3,2023,1,CUST785,Female,31,Beauty,4,50,200,Low Value,30 - 44
+786,10/17/2023,10,2023,4,CUST786,Male,48,Clothing,4,25,100,Low Value,45 - 59
+787,1/22/2023,1,2023,1,CUST787,Male,41,Electronics,1,25,25,Low Value,30 - 44
+788,6/27/2023,6,2023,2,CUST788,Female,52,Beauty,3,300,900,Medium Value,45 - 59
+789,9/30/2023,9,2023,3,CUST789,Female,61,Clothing,4,500,2000,High Value,60+
+790,8/8/2023,8,2023,3,CUST790,Male,62,Clothing,1,25,25,Low Value,60+
+791,12/5/2023,12,2023,4,CUST791,Female,51,Beauty,1,25,25,Low Value,45 - 59
+792,7/9/2023,7,2023,3,CUST792,Female,20,Beauty,1,50,50,Low Value,18 - 29
+793,2/5/2023,2,2023,1,CUST793,Male,54,Beauty,1,30,30,Low Value,45 - 59
+794,9/17/2023,9,2023,3,CUST794,Female,60,Beauty,1,300,300,Low Value,60+
+795,11/28/2023,11,2023,4,CUST795,Male,57,Electronics,1,300,300,Low Value,45 - 59
+796,6/24/2023,6,2023,2,CUST796,Male,43,Beauty,4,30,120,Low Value,30 - 44
+797,1/7/2023,1,2023,1,CUST797,Male,40,Clothing,3,25,75,Low Value,30 - 44
+798,8/4/2023,8,2023,3,CUST798,Male,61,Clothing,1,50,50,Low Value,60+
+799,9/8/2023,9,2023,3,CUST799,Male,56,Electronics,2,50,100,Low Value,45 - 59
+800,2/24/2023,2,2023,1,CUST800,Male,32,Clothing,4,300,1200,High Value,30 - 44
+801,8/10/2023,8,2023,3,CUST801,Male,21,Clothing,4,50,200,Low Value,18 - 29
+802,7/5/2023,7,2023,3,CUST802,Female,46,Beauty,1,30,30,Low Value,45 - 59
+803,11/22/2023,11,2023,4,CUST803,Male,39,Clothing,4,25,100,Low Value,30 - 44
+804,8/24/2023,8,2023,3,CUST804,Male,42,Electronics,1,30,30,Low Value,30 - 44
+805,12/29/2023,12,2023,4,CUST805,Female,30,Beauty,3,500,1500,High Value,30 - 44
+806,3/20/2023,3,2023,1,CUST806,Female,35,Beauty,3,300,900,Medium Value,30 - 44
+807,8/11/2023,8,2023,3,CUST807,Female,50,Electronics,4,50,200,Low Value,45 - 59
+808,4/1/2023,4,2023,2,CUST808,Male,33,Beauty,4,500,2000,High Value,30 - 44
+809,9/25/2023,9,2023,3,CUST809,Female,62,Beauty,2,50,100,Low Value,60+
+810,11/30/2023,11,2023,4,CUST810,Male,59,Electronics,4,25,100,Low Value,45 - 59
+811,5/19/2023,5,2023,2,CUST811,Male,61,Beauty,2,25,50,Low Value,60+
+812,11/12/2023,11,2023,4,CUST812,Male,19,Electronics,3,25,75,Low Value,18 - 29
+813,10/3/2023,10,2023,4,CUST813,Male,52,Electronics,3,50,150,Low Value,45 - 59
+814,9/5/2023,9,2023,3,CUST814,Female,59,Clothing,1,500,500,Medium Value,45 - 59
+815,8/27/2023,8,2023,3,CUST815,Female,51,Clothing,3,25,75,Low Value,45 - 59
+816,8/12/2023,8,2023,3,CUST816,Male,47,Beauty,2,500,1000,High Value,45 - 59
+817,10/31/2023,10,2023,4,CUST817,Male,30,Beauty,4,50,200,Low Value,30 - 44
+818,5/18/2023,5,2023,2,CUST818,Male,30,Electronics,1,500,500,Medium Value,30 - 44
+819,6/15/2023,6,2023,2,CUST819,Female,35,Beauty,2,50,100,Low Value,30 - 44
+820,5/6/2023,5,2023,2,CUST820,Male,49,Electronics,4,50,200,Low Value,45 - 59
+821,2/14/2023,2,2023,1,CUST821,Male,49,Electronics,1,300,300,Low Value,45 - 59
+822,5/23/2023,5,2023,2,CUST822,Female,52,Beauty,3,50,150,Low Value,45 - 59
+823,8/19/2023,8,2023,3,CUST823,Female,56,Electronics,2,50,100,Low Value,45 - 59
+824,5/5/2023,5,2023,2,CUST824,Male,63,Clothing,4,30,120,Low Value,60+
+825,8/26/2023,8,2023,3,CUST825,Female,46,Beauty,1,25,25,Low Value,45 - 59
+826,10/19/2023,10,2023,4,CUST826,Female,46,Clothing,1,300,300,Low Value,45 - 59
+827,11/9/2023,11,2023,4,CUST827,Male,61,Beauty,3,300,900,Medium Value,60+
+828,12/9/2023,12,2023,4,CUST828,Female,33,Electronics,4,300,1200,High Value,30 - 44
+829,7/14/2023,7,2023,3,CUST829,Male,61,Beauty,3,30,90,Low Value,60+
+830,6/22/2023,6,2023,2,CUST830,Female,64,Clothing,3,50,150,Low Value,60+
+831,1/15/2023,1,2023,1,CUST831,Male,27,Electronics,4,25,100,Low Value,18 - 29
+832,9/11/2023,9,2023,3,CUST832,Male,47,Beauty,4,500,2000,High Value,45 - 59
+833,6/16/2023,6,2023,2,CUST833,Male,42,Beauty,4,50,200,Low Value,30 - 44
+834,4/4/2023,4,2023,2,CUST834,Female,56,Beauty,2,30,60,Low Value,45 - 59
+835,9/7/2023,9,2023,3,CUST835,Male,37,Clothing,4,50,200,Low Value,30 - 44
+836,4/19/2023,4,2023,2,CUST836,Female,22,Clothing,1,50,50,Low Value,18 - 29
+837,7/1/2023,7,2023,3,CUST837,Male,18,Beauty,3,30,90,Low Value,18 - 29
+838,5/13/2023,5,2023,2,CUST838,Male,47,Electronics,2,300,600,Medium Value,45 - 59
+839,6/24/2023,6,2023,2,CUST839,Female,20,Electronics,4,300,1200,High Value,18 - 29
+840,5/24/2023,5,2023,2,CUST840,Male,62,Clothing,2,25,50,Low Value,60+
+841,11/2/2023,11,2023,4,CUST841,Male,31,Electronics,4,25,100,Low Value,30 - 44
+842,12/26/2023,12,2023,4,CUST842,Female,47,Clothing,2,300,600,Medium Value,45 - 59
+843,5/22/2023,5,2023,2,CUST843,Male,21,Beauty,3,500,1500,High Value,18 - 29
+844,10/12/2023,10,2023,4,CUST844,Male,35,Clothing,3,50,150,Low Value,30 - 44
+845,1/6/2023,1,2023,1,CUST845,Male,54,Clothing,1,500,500,Medium Value,45 - 59
+846,9/22/2023,9,2023,3,CUST846,Male,42,Beauty,1,50,50,Low Value,30 - 44
+847,4/8/2023,4,2023,2,CUST847,Female,18,Electronics,4,300,1200,High Value,18 - 29
+848,2/13/2023,2,2023,1,CUST848,Female,63,Clothing,3,25,75,Low Value,60+
+849,5/4/2023,5,2023,2,CUST849,Male,32,Clothing,2,25,50,Low Value,30 - 44
+850,7/28/2023,7,2023,3,CUST850,Female,26,Beauty,2,500,1000,High Value,18 - 29
+851,9/8/2023,9,2023,3,CUST851,Male,32,Electronics,2,25,50,Low Value,30 - 44
+852,10/12/2023,10,2023,4,CUST852,Female,41,Clothing,1,300,300,Low Value,30 - 44
+853,5/4/2023,5,2023,2,CUST853,Male,21,Beauty,2,500,1000,High Value,18 - 29
+854,12/20/2023,12,2023,4,CUST854,Male,29,Clothing,1,50,50,Low Value,18 - 29
+855,9/1/2023,9,2023,3,CUST855,Male,54,Beauty,1,25,25,Low Value,45 - 59
+856,11/27/2023,11,2023,4,CUST856,Male,54,Electronics,4,30,120,Low Value,45 - 59
+857,12/31/2023,12,2023,4,CUST857,Male,60,Electronics,2,25,50,Low Value,60+
+858,9/9/2023,9,2023,3,CUST858,Male,23,Electronics,2,50,100,Low Value,18 - 29
+859,8/18/2023,8,2023,3,CUST859,Female,56,Electronics,3,500,1500,High Value,45 - 59
+860,1/9/2023,1,2023,1,CUST860,Male,63,Clothing,4,50,200,Low Value,60+
+861,2/17/2023,2,2023,1,CUST861,Female,41,Clothing,3,30,90,Low Value,30 - 44
+862,5/31/2023,5,2023,2,CUST862,Male,28,Electronics,4,300,1200,High Value,18 - 29
+863,4/24/2023,4,2023,2,CUST863,Female,30,Electronics,2,25,50,Low Value,30 - 44
+864,7/27/2023,7,2023,3,CUST864,Female,51,Electronics,1,500,500,Medium Value,45 - 59
+865,12/21/2023,12,2023,4,CUST865,Female,42,Clothing,1,300,300,Low Value,30 - 44
+866,5/5/2023,5,2023,2,CUST866,Male,24,Electronics,1,50,50,Low Value,18 - 29
+867,6/6/2023,6,2023,2,CUST867,Male,21,Electronics,1,500,500,Medium Value,18 - 29
+868,12/6/2023,12,2023,4,CUST868,Female,25,Electronics,1,300,300,Low Value,18 - 29
+869,10/25/2023,10,2023,4,CUST869,Male,37,Beauty,3,500,1500,High Value,30 - 44
+870,7/8/2023,7,2023,3,CUST870,Female,46,Electronics,4,30,120,Low Value,45 - 59
+871,8/31/2023,8,2023,3,CUST871,Male,62,Beauty,2,30,60,Low Value,60+
+872,10/11/2023,10,2023,4,CUST872,Female,63,Beauty,3,25,75,Low Value,60+
+873,9/29/2023,9,2023,3,CUST873,Female,27,Electronics,4,25,100,Low Value,18 - 29
+874,6/26/2023,6,2023,2,CUST874,Male,60,Beauty,1,30,30,Low Value,60+
+875,8/6/2023,8,2023,3,CUST875,Female,51,Electronics,4,500,2000,High Value,45 - 59
+876,10/9/2023,10,2023,4,CUST876,Male,43,Clothing,4,30,120,Low Value,30 - 44
+877,6/19/2023,6,2023,2,CUST877,Female,58,Clothing,1,25,25,Low Value,45 - 59
+878,6/30/2023,6,2023,2,CUST878,Female,20,Clothing,1,30,30,Low Value,18 - 29
+879,12/26/2023,12,2023,4,CUST879,Male,23,Clothing,1,30,30,Low Value,18 - 29
+880,8/21/2023,8,2023,3,CUST880,Male,22,Beauty,2,500,1000,High Value,18 - 29
+881,5/19/2023,5,2023,2,CUST881,Male,22,Electronics,1,300,300,Low Value,18 - 29
+882,6/6/2023,6,2023,2,CUST882,Female,64,Electronics,2,25,50,Low Value,60+
+883,5/9/2023,5,2023,2,CUST883,Male,40,Electronics,1,500,500,Medium Value,30 - 44
+884,4/29/2023,4,2023,2,CUST884,Female,26,Clothing,2,30,60,Low Value,18 - 29
+885,3/3/2023,3,2023,1,CUST885,Female,52,Clothing,4,30,120,Low Value,45 - 59
+886,4/9/2023,4,2023,2,CUST886,Male,37,Electronics,3,300,900,Medium Value,30 - 44
+887,6/11/2023,6,2023,2,CUST887,Male,59,Clothing,4,25,100,Low Value,45 - 59
+888,3/3/2023,3,2023,1,CUST888,Female,52,Electronics,4,25,100,Low Value,45 - 59
+889,10/2/2023,10,2023,4,CUST889,Female,35,Electronics,1,50,50,Low Value,30 - 44
+890,12/20/2023,12,2023,4,CUST890,Male,34,Electronics,2,25,50,Low Value,30 - 44
+891,4/5/2023,4,2023,2,CUST891,Male,41,Electronics,3,300,900,Medium Value,30 - 44
+892,4/9/2023,4,2023,2,CUST892,Male,20,Electronics,1,50,50,Low Value,18 - 29
+893,4/21/2023,4,2023,2,CUST893,Male,49,Electronics,1,50,50,Low Value,45 - 59
+894,9/5/2023,9,2023,3,CUST894,Male,52,Electronics,1,30,30,Low Value,45 - 59
+895,5/22/2023,5,2023,2,CUST895,Female,55,Clothing,4,30,120,Low Value,45 - 59
+896,10/29/2023,10,2023,4,CUST896,Female,30,Electronics,2,25,50,Low Value,30 - 44
+897,9/26/2023,9,2023,3,CUST897,Female,64,Electronics,2,50,100,Low Value,60+
+898,11/2/2023,11,2023,4,CUST898,Female,42,Clothing,3,30,90,Low Value,30 - 44
+899,5/25/2023,5,2023,2,CUST899,Male,26,Clothing,2,300,600,Medium Value,18 - 29
+900,2/21/2023,2,2023,1,CUST900,Male,21,Clothing,2,30,60,Low Value,18 - 29
+901,4/10/2023,4,2023,2,CUST901,Male,31,Electronics,1,30,30,Low Value,30 - 44
+902,6/1/2023,6,2023,2,CUST902,Female,54,Beauty,1,50,50,Low Value,45 - 59
+903,4/27/2023,4,2023,2,CUST903,Female,51,Beauty,4,50,200,Low Value,45 - 59
+904,7/4/2023,7,2023,3,CUST904,Male,28,Clothing,1,500,500,Medium Value,18 - 29
+905,4/2/2023,4,2023,2,CUST905,Male,58,Beauty,1,300,300,Low Value,45 - 59
+906,6/4/2023,6,2023,2,CUST906,Female,20,Clothing,1,50,50,Low Value,18 - 29
+907,1/8/2023,1,2023,1,CUST907,Female,45,Electronics,1,25,25,Low Value,45 - 59
+908,12/29/2023,12,2023,4,CUST908,Male,46,Beauty,4,300,1200,High Value,45 - 59
+909,10/1/2023,10,2023,4,CUST909,Male,26,Electronics,1,300,300,Low Value,18 - 29
+910,3/6/2023,3,2023,1,CUST910,Female,20,Beauty,3,50,150,Low Value,18 - 29
+911,5/21/2023,5,2023,2,CUST911,Male,42,Electronics,3,300,900,Medium Value,30 - 44
+912,1/24/2023,1,2023,1,CUST912,Male,51,Beauty,3,50,150,Low Value,45 - 59
+913,1/28/2023,1,2023,1,CUST913,Male,29,Electronics,3,30,90,Low Value,18 - 29
+914,10/11/2023,10,2023,4,CUST914,Female,59,Electronics,1,500,500,Medium Value,45 - 59
+915,5/30/2023,5,2023,2,CUST915,Female,26,Beauty,3,30,90,Low Value,18 - 29
+916,12/24/2023,12,2023,4,CUST916,Female,32,Electronics,1,50,50,Low Value,30 - 44
+917,3/6/2023,3,2023,1,CUST917,Female,57,Electronics,4,50,200,Low Value,45 - 59
+918,11/23/2023,11,2023,4,CUST918,Female,42,Electronics,3,30,90,Low Value,30 - 44
+919,9/9/2023,9,2023,3,CUST919,Female,22,Beauty,2,25,50,Low Value,18 - 29
+920,2/22/2023,2,2023,1,CUST920,Female,28,Beauty,3,25,75,Low Value,18 - 29
+921,1/7/2023,1,2023,1,CUST921,Male,51,Electronics,3,25,75,Low Value,45 - 59
+922,10/21/2023,10,2023,4,CUST922,Male,41,Electronics,1,50,50,Low Value,30 - 44
+923,5/26/2023,5,2023,2,CUST923,Male,32,Beauty,3,300,900,Medium Value,30 - 44
+924,8/29/2023,8,2023,3,CUST924,Male,55,Beauty,2,50,100,Low Value,45 - 59
+925,9/3/2023,9,2023,3,CUST925,Male,25,Electronics,1,300,300,Low Value,18 - 29
+926,8/14/2023,8,2023,3,CUST926,Male,22,Electronics,1,30,30,Low Value,18 - 29
+927,6/24/2023,6,2023,2,CUST927,Male,43,Electronics,4,500,2000,High Value,30 - 44
+928,4/5/2023,4,2023,2,CUST928,Female,35,Clothing,4,300,1200,High Value,30 - 44
+929,1/27/2023,1,2023,1,CUST929,Female,23,Beauty,3,25,75,Low Value,18 - 29
+930,5/10/2023,5,2023,2,CUST930,Male,54,Clothing,4,50,200,Low Value,45 - 59
+931,9/2/2023,9,2023,3,CUST931,Male,30,Beauty,4,30,120,Low Value,30 - 44
+932,2/28/2023,2,2023,1,CUST932,Female,45,Beauty,4,25,100,Low Value,45 - 59
+933,2/3/2023,2,2023,1,CUST933,Male,22,Beauty,1,30,30,Low Value,18 - 29
+934,7/25/2023,7,2023,3,CUST934,Male,30,Beauty,1,500,500,Medium Value,30 - 44
+935,9/9/2023,9,2023,3,CUST935,Female,34,Beauty,1,50,50,Low Value,30 - 44
+936,2/7/2023,2,2023,1,CUST936,Male,57,Beauty,4,50,200,Low Value,45 - 59
+937,10/23/2023,10,2023,4,CUST937,Female,62,Beauty,1,500,500,Medium Value,60+
+938,11/19/2023,11,2023,4,CUST938,Male,49,Clothing,4,50,200,Low Value,45 - 59
+939,12/18/2023,12,2023,4,CUST939,Female,46,Electronics,1,300,300,Low Value,45 - 59
+940,1/28/2023,1,2023,1,CUST940,Female,20,Electronics,1,30,30,Low Value,18 - 29
+941,3/19/2023,3,2023,1,CUST941,Female,57,Clothing,2,25,50,Low Value,45 - 59
+942,3/18/2023,3,2023,1,CUST942,Male,51,Clothing,3,500,1500,High Value,45 - 59
+943,10/16/2023,10,2023,4,CUST943,Female,57,Clothing,4,300,1200,High Value,45 - 59
+944,6/5/2023,6,2023,2,CUST944,Male,44,Clothing,2,25,50,Low Value,30 - 44
+945,2/13/2023,2,2023,1,CUST945,Male,30,Beauty,1,25,25,Low Value,30 - 44
+946,5/8/2023,5,2023,2,CUST946,Male,62,Electronics,4,500,2000,High Value,60+
+947,3/2/2023,3,2023,1,CUST947,Male,50,Beauty,1,300,300,Low Value,45 - 59
+948,10/13/2023,10,2023,4,CUST948,Female,23,Electronics,3,25,75,Low Value,18 - 29
+949,8/2/2023,8,2023,3,CUST949,Female,41,Electronics,2,25,50,Low Value,30 - 44
+950,11/7/2023,11,2023,4,CUST950,Male,36,Clothing,3,300,900,Medium Value,30 - 44
+951,11/2/2023,11,2023,4,CUST951,Male,33,Beauty,2,50,100,Low Value,30 - 44
+952,11/13/2023,11,2023,4,CUST952,Female,57,Clothing,1,25,25,Low Value,45 - 59
+953,4/26/2023,4,2023,2,CUST953,Male,45,Beauty,3,30,90,Low Value,45 - 59
+954,9/25/2023,9,2023,3,CUST954,Female,50,Electronics,3,300,900,Medium Value,45 - 59
+955,7/14/2023,7,2023,3,CUST955,Male,58,Clothing,1,25,25,Low Value,45 - 59
+956,8/19/2023,8,2023,3,CUST956,Male,30,Clothing,3,500,1500,High Value,30 - 44
+957,8/15/2023,8,2023,3,CUST957,Female,60,Electronics,4,30,120,Low Value,60+
+958,6/2/2023,6,2023,2,CUST958,Male,62,Electronics,2,25,50,Low Value,60+
+959,10/29/2023,10,2023,4,CUST959,Female,42,Electronics,2,30,60,Low Value,30 - 44
+960,8/8/2023,8,2023,3,CUST960,Male,59,Clothing,2,30,60,Low Value,45 - 59
+961,6/6/2023,6,2023,2,CUST961,Male,53,Beauty,4,50,200,Low Value,45 - 59
+962,10/19/2023,10,2023,4,CUST962,Male,44,Clothing,2,30,60,Low Value,30 - 44
+963,11/14/2023,11,2023,4,CUST963,Female,55,Beauty,1,50,50,Low Value,45 - 59
+964,1/31/2023,1,2023,1,CUST964,Male,24,Clothing,3,300,900,Medium Value,18 - 29
+965,11/9/2023,11,2023,4,CUST965,Male,22,Clothing,4,50,200,Low Value,18 - 29
+966,2/20/2023,2,2023,1,CUST966,Male,60,Electronics,2,500,1000,High Value,60+
+967,4/17/2023,4,2023,2,CUST967,Male,62,Beauty,1,25,25,Low Value,60+
+968,11/17/2023,11,2023,4,CUST968,Female,48,Clothing,3,300,900,Medium Value,45 - 59
+969,4/19/2023,4,2023,2,CUST969,Female,40,Clothing,3,300,900,Medium Value,30 - 44
+970,5/16/2023,5,2023,2,CUST970,Male,59,Electronics,4,500,2000,High Value,45 - 59
+971,12/5/2023,12,2023,4,CUST971,Female,27,Electronics,4,50,200,Low Value,18 - 29
+972,2/11/2023,2,2023,1,CUST972,Male,49,Beauty,4,25,100,Low Value,45 - 59
+973,3/22/2023,3,2023,1,CUST973,Male,60,Clothing,1,50,50,Low Value,60+
+974,5/3/2023,5,2023,2,CUST974,Male,47,Beauty,1,30,30,Low Value,45 - 59
+975,3/30/2023,3,2023,1,CUST975,Female,56,Clothing,4,50,200,Low Value,45 - 59
+976,10/10/2023,10,2023,4,CUST976,Female,48,Beauty,2,300,600,Medium Value,45 - 59
+977,2/8/2023,2,2023,1,CUST977,Female,35,Electronics,3,25,75,Low Value,30 - 44
+978,3/22/2023,3,2023,1,CUST978,Female,53,Clothing,3,50,150,Low Value,45 - 59
+979,1/2/2023,1,2023,1,CUST979,Female,19,Beauty,1,25,25,Low Value,18 - 29
+980,7/29/2023,7,2023,3,CUST980,Female,31,Electronics,3,25,75,Low Value,30 - 44
+981,8/19/2023,8,2023,3,CUST981,Female,30,Electronics,2,30,60,Low Value,30 - 44
+982,12/19/2023,12,2023,4,CUST982,Female,46,Beauty,3,30,90,Low Value,45 - 59
+983,11/1/2023,11,2023,4,CUST983,Female,29,Clothing,1,300,300,Low Value,18 - 29
+984,8/29/2023,8,2023,3,CUST984,Male,56,Clothing,1,500,500,Medium Value,45 - 59
+985,5/30/2023,5,2023,2,CUST985,Female,19,Electronics,2,25,50,Low Value,18 - 29
+986,1/17/2023,1,2023,1,CUST986,Female,49,Clothing,2,500,1000,High Value,45 - 59
+987,4/29/2023,4,2023,2,CUST987,Female,30,Clothing,3,300,900,Medium Value,30 - 44
+988,5/28/2023,5,2023,2,CUST988,Female,63,Clothing,3,25,75,Low Value,60+
+989,12/28/2023,12,2023,4,CUST989,Female,44,Electronics,1,25,25,Low Value,30 - 44
+990,5/25/2023,5,2023,2,CUST990,Female,58,Beauty,2,500,1000,High Value,45 - 59
+991,12/26/2023,12,2023,4,CUST991,Female,34,Clothing,2,50,100,Low Value,30 - 44
+992,8/21/2023,8,2023,3,CUST992,Female,57,Electronics,2,30,60,Low Value,45 - 59
+993,2/6/2023,2,2023,1,CUST993,Female,48,Electronics,3,50,150,Low Value,45 - 59
+994,12/18/2023,12,2023,4,CUST994,Female,51,Beauty,2,500,1000,High Value,45 - 59
+995,4/30/2023,4,2023,2,CUST995,Female,41,Clothing,1,30,30,Low Value,30 - 44
+996,5/16/2023,5,2023,2,CUST996,Male,62,Clothing,1,50,50,Low Value,60+
+997,11/17/2023,11,2023,4,CUST997,Male,52,Beauty,3,30,90,Low Value,45 - 59
+998,10/29/2023,10,2023,4,CUST998,Female,23,Beauty,4,25,100,Low Value,18 - 29
+999,12/5/2023,12,2023,4,CUST999,Female,36,Electronics,3,50,150,Low Value,30 - 44
+1000,4/12/2023,4,2023,2,CUST1000,Male,47,Electronics,4,30,120,Low Value,45 - 59
